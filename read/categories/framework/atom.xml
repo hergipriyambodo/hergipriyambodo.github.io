@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Framework | Hergi Priyambodo]]></title>
   <link href="http://hergipriyambodo.com/read/categories/framework/atom.xml" rel="self"/>
   <link href="http://hergipriyambodo.com/"/>
-  <updated>2014-12-01T23:29:35+07:00</updated>
+  <updated>2014-12-01T23:43:19+07:00</updated>
   <id>http://hergipriyambodo.com/</id>
   <author>
     <name><![CDATA[Hergi Priyambodo]]></name>
@@ -27,25 +27,30 @@
 <li>Teman-teman install github terlebih dahulu. Cara install github bisa cek disini.</li>
 <li><p>Install ruby. Cara install ruby dapat cek disini.</p></li>
 <li><p>Apabila semuanya sudah terinstall saatnya mengclone git dari repos octopressnya di terminal (ctrl+alt+t) ubuntu
-{% codeblock lang:sh root@hergipriyambodo%}
-git clone git://github.com/imathis/octopress.git username.github.io
-{% endcodeblock %}</p></li>
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>git clone git://github.com/imathis/octopress.git username.github.io
+</span></code></pre></td></tr></table></div></figure></p></li>
 <li><p>Ketikan:
-{% codeblock lang:sh root@hergipriyambodo %}
-cd username.github.io
-{% endcodeblock %}</p></li>
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nb">cd </span>username.github.io
+</span></code></pre></td></tr></table></div></figure></p></li>
 <li><p>Lalu install gem
-{% codeblock lang:sh root@hergipriyambodo %}
-sudo gem install bundler
-{% endcodeblock %}</p></li>
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>sudo gem install bundler
+</span></code></pre></td></tr></table></div></figure></p></li>
 <li><p>Install bundle
-{% codeblock lang:sh root@hergipriyambodo %}
-bundle install
-{% endcodeblock %}</p></li>
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>bundle install
+</span></code></pre></td></tr></table></div></figure></p></li>
 <li><p>Dan yang terakhir install
-{% codeblock lang:sh root@hergipriyambodo %}
-rake install
-{% endcodeblock %}</p></li>
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake install
+</span></code></pre></td></tr></table></div></figure></p></li>
 <li><p>Temen-temen bisa mencoba mengetest dengan cara membuat post di octopress, bagaimana caranya tunggu kelanjutan ilmunya. Terima kasih sudah mampir, assalamualaikum.</p></li>
 </ul>
 
