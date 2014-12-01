@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Terminal | Hergi Priyambodo]]></title>
+  <link href="http://hergipriyambodo.com/read/categories/terminal/atom.xml" rel="self"/>
+  <link href="http://hergipriyambodo.com/"/>
+  <updated>2014-12-01T20:38:30+07:00</updated>
+  <id>http://hergipriyambodo.com/</id>
+  <author>
+    <name><![CDATA[Hergi Priyambodo]]></name>
+    <email><![CDATA[mashergi@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cara Install Git Di Ubuntu, Windows Dan Mac]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/10/cara-install-git-di-ubuntu-windows-dan-mac/"/>
+    <updated>2014-09-10T22:33:03+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/10/cara-install-git-di-ubuntu-windows-dan-mac</id>
+    <content type="html"><![CDATA[<p>Kemarin kita mencoba membuat blog atau website di octopress, jika kalian telah membaca artikel yang kemaren aku rancang tentu kalian masih ingat kan. Diartikel sebelumnya kan menyuruh kalian menginstall git, nah sekarang aku akan sedikit berbagi bagaimana menginstall git pada ubuntu windows dan mac. Upss, banyak juga yaa operating systemnya. Yaa sekalian saja aku share semuanya aja disini tanpa banyak cingcong, yuk disimak yaa.</p>
+
+<!-- more -->
+
+
+<p>Via Operating System Ubuntu atau Linux.</p>
+
+<ul>
+<li><p>Pertama, temen-temen daftar dulu di <a href="https://github.com/.">https://github.com/.</a> Oh yaa klo daftar ini temen-temen gak pake persyaratan fotocopy KTP ataupun SIM karena bukan untuk mengurus surat KK ataupun Nikah. hahhaaa</p></li>
+<li><p>Jika sudah, ketikan pada terminal (ctrl+alt+t)
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>sudo apt-get install git
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Tunggu sampai prosesnya selesai, nah jika selesai yaa sekarang telah siap dipergunakan.</p></li>
+<li><p>Temen-temen juga bisa mengecheck versinya bukan hack loh tapi cek, caranya
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>git <span class="p">&amp;</span>ndash<span class="p">;</span>version
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Klo punya aku si versinya
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>git version 1.7.9.5
+</span></code></pre></td></tr></table></div></figure></p></li>
+</ul>
+
+
+<p>Via Operating System Windows atau Jendela.
+Sesungguhnya install git pada windows atau jendela itu sangatlah mudah asal temen-temen mengikuti langkah-langkahnya yang share dengan baik. Pasti temen-temen bisa semua, ya dong harus bisa. Cumunguud temen.</p>
+
+<ul>
+<li><p>Cara pertama yaa daftar dulu di website <a href="https://github.com/">https://github.com/</a></p></li>
+<li><p>Temen-temen bisa download file git menggunakan msysGit, cukup download dihalaman github file installasinya.</p></li>
+<li><p>Klo bingung neh aku kasih link downloadnya, tenang aku kasih tanpa iklan atau ads.
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>&lt;a <span class="nv">href</span><span class="o">=</span><span class="s2">&quot;http://msysgit.github.io/&quot;</span>&gt;http://msysgit.github.io/&lt;/a&gt;
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Setelah terinstall temen-temen memperoleh command-line dan versi GUInya.</p></li>
+</ul>
+
+
+<p>Via Operating System MAC.
+Nah cara ini yang belum pernah aku coba, lah wong aku ra duwe apple. Kepiye meh jajal hehehe (jowone metu) tapi tenang setelah aku berselancar/bergoogling ria selama 60 menit akhirnya aku menemukan artikel yang cocok dari git-scm (dot) com. Disini aku menjelaskan 2 cara termudah berdasarkan artikel yang telah aku pelajari.</p>
+
+<ul>
+<li><p>Seperti biasa cara pertama itu daftar dulu di <a href="https://github.com/">https://github.com/</a></p></li>
+<li><p>Temen-temen bisa menggunakan installer git berbasis GUI, yang dapat diperoleh dari halaman SourceForge
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>&lt;a <span class="nv">href</span><span class="o">=</span><span class="s2">&quot;http://sourceforge.net/projects/git-osx-installer/&quot;</span>&gt;http://sourceforge.net/projects/git-osx-installer/&lt;/a&gt;
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Temen-temen juga bisa menggunakan cara yang ini, cara yang ini menggunakan Macports <a href="http://www.macports.org.">http://www.macports.org.</a> Jika sudah menginstall, maka anda dapat menginstall git dengan cara berikut ini :
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nv">$ </span>sudo port install git-core +svn +doc +bash_completion +gitweb
+</span></code></pre></td></tr></table></div></figure></p></li>
+</ul>
+
+
+<p>yaa itu dia cara menginstall git melalui 3 operating system yang berbeda. Apabila ada pertanyaan bisa comment/hubungi saja via akun twitter aku di @mashergi. Ilmu selanjutnya akan segera di share, assalamualaikum.</p>
+]]></content>
+  </entry>
+  
+</feed>

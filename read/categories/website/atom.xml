@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Website | Hergi Priyambodo]]></title>
+  <link href="http://hergipriyambodo.com/read/categories/website/atom.xml" rel="self"/>
+  <link href="http://hergipriyambodo.com/"/>
+  <updated>2014-12-01T20:38:30+07:00</updated>
+  <id>http://hergipriyambodo.com/</id>
+  <author>
+    <name><![CDATA[Hergi Priyambodo]]></name>
+    <email><![CDATA[mashergi@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Konfigurasi Plugin Categories Sidebar Di Octopress]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/19/konfigurasi-plugin-categories-sidebar-di-octopress/"/>
+    <updated>2014-09-19T23:31:47+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/19/konfigurasi-plugin-categories-sidebar-di-octopress</id>
+    <content type="html"><![CDATA[<p>Assalamualaikum wr.wb
+Ketemu lagi sama aku semoga gak bosen yaa. Kali ini aku mau berbagi ilmu dan judul yang aku ambil adalah jreng jreng &ldquo;Konfigurasi plugin kategori sidebar di octopress&rdquo;. Tanpa berlama-lama lagi aku mulai yaa. cekidot.</p>
+
+<!-- more -->
+
+
+<ul>
+<li>Temen-temen menambahkan file kedirektori plugin lalu memberi nama filenya <code>category_list_tag.rb</code></li>
+<li>Temen-temen ketikan code ruby dibawah ini klo temen-temen males ketik lebih baik copy paste aja.
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>module Jekyll
+</span><span class='line'>class CategoryListTag <span class="p">&amp;</span>lt<span class="p">;</span> Liquid::Tag
+</span><span class='line'>  def render<span class="o">(</span>context<span class="o">)</span>
+</span><span class='line'>    <span class="nv">html</span> <span class="o">=</span> <span class="p">&amp;</span>ldquo<span class="p">;&amp;</span>rdquo<span class="p">;</span>
+</span><span class='line'>    <span class="nv">categories</span> <span class="o">=</span> context.registers<span class="o">[</span>:site<span class="o">]</span>.categories.keys
+</span><span class='line'>    categories.sort.each <span class="k">do</span> <span class="p">|</span>category<span class="p">|</span>
+</span><span class='line'>      <span class="nv">posts_in_category</span> <span class="o">=</span> context.registers<span class="o">[</span>:site<span class="o">]</span>.categories<span class="o">[</span>category<span class="o">]</span>.size
+</span><span class='line'>      <span class="nv">category_dir</span> <span class="o">=</span> context.registers<span class="o">[</span>:site<span class="o">]</span>.config<span class="o">[</span><span class="p">&amp;</span>lsquo<span class="p">;</span>category_dir<span class="p">&amp;</span>rsquo<span class="p">;</span><span class="o">]</span>
+</span><span class='line'>      <span class="nv">category_url</span> <span class="o">=</span> File.join<span class="o">(</span>category_dir, category.gsub<span class="o">(</span>/_<span class="p">|</span><span class="se">\P</span><span class="o">{</span>Word<span class="o">}</span>/, <span class="p">&amp;</span>lsquo<span class="p">;</span>-<span class="p">&amp;</span>rsquo<span class="p">;</span><span class="o">)</span>.gsub<span class="o">(</span>/-<span class="o">{</span>2,<span class="o">}</span>/, <span class="p">&amp;</span>lsquo<span class="p">;</span>-<span class="p">&amp;</span>rsquo<span class="p">;</span><span class="o">)</span>.downcase<span class="o">)</span>
+</span><span class='line'>      html <span class="p">&amp;</span>lt<span class="p">;&amp;</span>lt<span class="p">;</span> <span class="p">&amp;</span>ldquo<span class="p">;</span>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;http://hergipriyambodo.com/#{category_url}/&#39;</span>&gt;#<span class="o">{</span>category<span class="o">}</span> <span class="o">(</span><span class="c">#{posts_in_category})&lt;/a&gt;&lt;/li&gt;\n&amp;rdquo;</span>
+</span><span class='line'>    end
+</span><span class='line'>    html
+</span><span class='line'>  end
+</span><span class='line'>end
+</span><span class='line'>end&lt;/li&gt;
+</span><span class='line'>&lt;/ul&gt;
+</span><span class='line'>
+</span><span class='line'>
+</span><span class='line'>&lt;p&gt;Liquid::Template.register_tag<span class="o">(</span><span class="p">&amp;</span>lsquo<span class="p">;</span>category_list<span class="p">&amp;</span>rsquo<span class="p">;</span>, Jekyll::CategoryListTag<span class="o">)</span>
+</span></code></pre></td></tr></table></div></figure></p>
+
+<p>Plug-in ini akan mengambil data kategori dari situs dan menghasilkan daftar item untuk setiap kategori. Pada line 17 tag category_list tersedia untuk liquid template engine. Cek aja di atas.</p>
+
+<ul>
+<li>Sekarang temen-temen harus membuat daftar kategori (category_list.html) template di dalam direktori <code>source/_includes/asides</code> dengan menggunakan “category_list” tag dari plug-in di atas.</li>
+<li><p>Buat file baru <code>source/_includes/asides</code> dengan nama <code>category_list.html</code> dengan isi code sebagi berikut:
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>&lt;section&gt;
+</span><span class='line'>  &lt;h1&gt;Categories&lt;/h1&gt;
+</span><span class='line'>      &lt;ul <span class="nv">id</span><span class="o">=</span><span class="s2">&quot;categories&quot;</span>&gt;
+</span><span class='line'>  &lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/framework/&#39;</span>&gt;framework <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/github/&#39;</span>&gt;github <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/microsoft/&#39;</span>&gt;microsoft <span class="o">(</span>5<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/octopress/&#39;</span>&gt;octopress <span class="o">(</span>4<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/office/&#39;</span>&gt;office <span class="o">(</span>3<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/sidebar/&#39;</span>&gt;sidebar <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/terminal/&#39;</span>&gt;terminal <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/website/&#39;</span>&gt;website <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/word/&#39;</span>&gt;word <span class="o">(</span>4<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>
+</span><span class='line'>      &lt;/ul&gt;
+</span><span class='line'>&lt;/section&gt;
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Cari kode <code>default_asides</code> di file <code>_config.yml</code></p></li>
+<li><p>Tambahkan <code>asides/category_list.html</code> ke dalam daftar asides-nya, misalnya punya aku seperti ini:
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>default_asides: <span class="o">[</span>asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html, asides/category_list.html<span class="o">]</span>
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Terakhir temen-temen tinggal memperbaharui dengan cara menjalankan perintah rake, contohnya
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake preview
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>kemudian
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake generate
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>kemudian
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake deploy
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Dan akhirnya seperti ini (punya aku)</p></li>
+</ul>
+
+
+<p><img class="<a" src="href="https://lh5.googleusercontent.com/-8f6M9qJ7T9w/VBxjai7lvxI/AAAAAAAAADo/6OyIxM_I3VQ/w278-h251/kategori.png">https://lh5.googleusercontent.com/-8f6M9qJ7T9w/VBxjai7lvxI/AAAAAAAAADo/6OyIxM_I3VQ/w278-h251/kategori.png</a>&#8221;></p>
+]]></content>
+  </entry>
+  
+</feed>

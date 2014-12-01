@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Github | Hergi Priyambodo]]></title>
+  <link href="http://hergipriyambodo.com/read/categories/github/atom.xml" rel="self"/>
+  <link href="http://hergipriyambodo.com/"/>
+  <updated>2014-12-01T20:38:30+07:00</updated>
+  <id>http://hergipriyambodo.com/</id>
+  <author>
+    <name><![CDATA[Hergi Priyambodo]]></name>
+    <email><![CDATA[mashergi@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Pengenalan Github]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/11/pengenalan-github/"/>
+    <updated>2014-09-11T13:14:13+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/11/pengenalan-github</id>
+    <content type="html"><![CDATA[<p>Assalamualaikum wr.wb
+Akhirnya setelah sekian lama tidak menulis lagi di halaman ini, aku ada waktu yaa setidaknya menulis dan berbagi ilmu. Judul kali ini adalah &ldquo;Pengenalan Github&rdquo;. Karena sesuai dengan pepatah mengatakan tak kenal maka tak sayang, begitu pun dengan ilmu apabila temen ingin mempelajari ilmu temen pun harus mengetahui ilmu itu berasal dari mana atau lebih jelasnya pengertian atau deskripsi. Langsung tkp saja yuk.</p>
+
+<p>Ada yang tahu github ? pasti sebagian temen-temen ada yg sudah mengenal github. Bagi yang sudah jangan sombong cobalah untuk berbagi ilmu toh ilmu kalian tidak akan habis jika berbagi. Yaa github merupakan software hosting or bahasa kitanya wadah software untuk proyek open source yang menggunakan tools sistem revisi control git. Nah loh git apa lagi yaa, git adalah tool untuk melakukan revisi code, sedangkan github adalah webhostingnya. Mudahnya Github adalah Webhosting untuk proyek proyek software seperti Google code. Github adalah jejaring social untuk software developer.</p>
+
+<!-- more -->
+
+
+<p>Perbedaan Github dengan Project hosting yang lain adalah sebagai berikut.</p>
+
+<ul>
+<li>Github menggunakan Git sebagai tool utama dalam merevisi code.</li>
+<li>Github menyediakan free hosting untuk proyek open source, namun Github juga menawarkan  hosting berbayar untuk proyek perusahaan atau pribadi yang sifatnya privat.</li>
+<li>Github ditargetkan untuk para developer yang bekerja secara tim dan tidak disatu tempat.</li>
+<li>Github mempunyai fitur Social seperti  Twitter seperti follow atau favorit (Star).</li>
+<li>Github mendukung semua bahasa pemrograman, anda bebas memakai bahasa dan tool yang biasa anda pakai.</li>
+</ul>
+
+
+<p>Fitur-fitur yang terdapat pada github.</p>
+
+<ul>
+<li>Github menggunakan profile pengguna (user profile).</li>
+<li>Kita bisa mengikuti user lain (follow) or sebaliknya.</li>
+<li>Watch memonitor repository tertentu. Setiap ada perubahan di Repo, maka kita akan dikirim notifikasi.</li>
+<li>Fork mengcopy keseluruhan code repository ke repo kita sendiri.</li>
+<li>Star fungsinya sama dengan Bookmark.</li>
+</ul>
+
+
+<p>User Profile Github</p>
+
+<p>Profile dari github sama dengan jejaring sosial twitter maupun facebook. Profilenya berisi foto jumlah repository jumlah follower jumlah user yang kita ikuti (following) dan star. Neh aku kasih contoh pictnya.</p>
+
+<p><img class="<a" src="href="https://lh6.googleusercontent.com/-dcbT9ChQ5zg/VBk6ST53mvI/AAAAAAAAACU/7inKsibiQa8/w951-h583-no/Profil%2BGithub.png">https://lh6.googleusercontent.com/-dcbT9ChQ5zg/VBk6ST53mvI/AAAAAAAAACU/7inKsibiQa8/w951-h583-no/Profil%2BGithub.png</a>&#8221;></p>
+
+<p>heemm biasanya si jika followernya banyak kemungkinan besar bahwa temen itu mahir skillnya. Contoh aja aku masih sedikit followernya berarti aku masih newbie.</p>
+
+<p>Fitur searching
+Github memiliki lebih dari 50 juta repository sofware. Nah banyak banget kan? Jika temen ingin mencari proyek open source tertentu, gunakan fitur pencarian.</p>
+
+<p>Struktur halaman di github</p>
+
+<p><img class="<a" src="href="https://lh5.googleusercontent.com/-Y7J5UtUx3B4/VBlBFPr7M_I/AAAAAAAAADA/Zu7GhGmsF_w/w995-h523-no/github.jpg">https://lh5.googleusercontent.com/-Y7J5UtUx3B4/VBlBFPr7M_I/AAAAAAAAADA/Zu7GhGmsF_w/w995-h523-no/github.jpg</a>&#8221;></p>
+
+<p>Contoh di gambar 2 adalah struktur poyek dari Twitter Bootstrap, CSS framework paling populer saat ini. Mari kita analisa satu persatu struktur halamannya.</p>
+
+<p>Bagian Statistik</p>
+
+<p>Bagian pertama adalah statistik, kia bisa melihat jumlah Watch, star dan fork dibagian atas halaman. Bootstrap adalah salahsatu proyek paling populer di github, maka jangan heran jika ada lebih dari 63 ribu user yang memberi tanda bintang.</p>
+
+<p>Bagian Code</p>
+
+<p>Bagian utama dari struktur proyek ini adalah code itu sendiri. Kode ini juga berisi penjelasan kapan dan apa file terakhir yang diedit berserta penjelasan perubahan apayang terjadi.</p>
+
+<p>Bagian Clone dan Download</p>
+
+<p>Clone in desktop  di pakai untuk mengkopi source code proyek terserbut ke komputer kita , namun komputer kita harus sudah terinstall Github for Windows atau Mac. Bagian paling penting dan paling sering dipakai adalah menu DOWNLOAD.  jika temen ingin langsung mencoba code di komputer , cukup klik download, maka source code otomatis akan dizip dan diunduh ke kompuer temen.</p>
+]]></content>
+  </entry>
+  
+</feed>

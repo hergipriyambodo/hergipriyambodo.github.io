@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Framework | Hergi Priyambodo]]></title>
+  <link href="http://hergipriyambodo.com/read/categories/framework/atom.xml" rel="self"/>
+  <link href="http://hergipriyambodo.com/"/>
+  <updated>2014-12-01T20:38:30+07:00</updated>
+  <id>http://hergipriyambodo.com/</id>
+  <author>
+    <name><![CDATA[Hergi Priyambodo]]></name>
+    <email><![CDATA[mashergi@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cara Membuat Blog Atau Website Di Octopress]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/10/cara-membuat-blog-atau-website-di-octopress/"/>
+    <updated>2014-09-10T19:53:26+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/10/cara-membuat-blog-atau-website-di-octopress</id>
+    <content type="html"><![CDATA[<p>Octopress merupakan sebuah framework yang dirancang oleh Brandon Mathis. Framework ini merupakan mesin blog atau wesite secara statis atau lebih tepatnya html statis. Dengan menggunakan framework ini (Octopress) kita hanya perlu mengclone atau menggandakan dari github. Bagaimana cara menginstallnya, yuk disimak satu persatu caranya dimulai dari</p>
+
+<!-- more -->
+
+
+<ul>
+<li>Teman-teman install github terlebih dahulu. Cara install github bisa cek disini.</li>
+<li><p>Install ruby. Cara install ruby dapat cek disini.</p></li>
+<li><p>Apabila semuanya sudah terinstall saatnya mengclone git dari repos octopressnya di terminal (ctrl+alt+t) ubuntu
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>git clone git://github.com/imathis/octopress.git username.github.io
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Ketikan:
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nb">cd </span>username.github.io
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Lalu install gem
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>sudo gem install bundler
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Install bundle
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>bundle install
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Dan yang terakhir install
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake install
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Temen-temen bisa mencoba mengetest dengan cara membuat post di octopress, bagaimana caranya tunggu kelanjutan ilmunya. Terima kasih sudah mampir, assalamualaikum.</p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

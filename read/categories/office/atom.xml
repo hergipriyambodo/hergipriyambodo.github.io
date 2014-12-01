@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Office | Hergi Priyambodo]]></title>
+  <link href="http://hergipriyambodo.com/read/categories/office/atom.xml" rel="self"/>
+  <link href="http://hergipriyambodo.com/"/>
+  <updated>2014-12-01T20:38:30+07:00</updated>
+  <id>http://hergipriyambodo.com/</id>
+  <author>
+    <name><![CDATA[Hergi Priyambodo]]></name>
+    <email><![CDATA[mashergi@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Shortcut Keyboard Lengkap Untuk Microsoft Word]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/10/09/shortcut-keyboard-lengkap-untuk-microsoft-word/"/>
+    <updated>2014-10-09T19:15:23+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/10/09/shortcut-keyboard-lengkap-untuk-microsoft-word</id>
+    <content type="html"><![CDATA[<p>Shortcut adalah kombinasi-kombinasi tombol keyboard untuk melakukan sebuah perintah (command line) di MS Word tanpa harus masuk ke menu utama perintah tersebut. Dengan menggunakan shortcut ini, temen-temen bisa meringkas waktu untuk mengetik dan mengedit lembar kerja. Saya mencoba mengumpulkan Shortcut lengkap dari tombol A-Z serta fungsi-fungsinya. Silahkan lihat list shorcut lengkap dibawah ini. Shortcut ini Berlaku untuk  MS Word 2007 ke atas.</p>
+
+<table>
+<thead>
+<tr>
+<th> Tombol Shortcut           </th>
+<th style="text-align:center;"> Fungsi                                            </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> ctrl + A                  </td>
+<td style="text-align:center;"> Memilih/blok semua teks                           </td>
+</tr>
+<tr>
+<td> ctrl + B                  </td>
+<td style="text-align:center;"> Menebalkan huruf (bold)                           </td>
+</tr>
+<tr>
+<td> ctrl + C                  </td>
+<td style="text-align:center;"> Menggandakan kata (copy)                          </td>
+</tr>
+<tr>
+<td> ctrl + D                  </td>
+<td style="text-align:center;"> Memilih jenis huruf (font)                        </td>
+</tr>
+<tr>
+<td> ctrl + E                  </td>
+<td style="text-align:center;"> Rata tengah (center)                              </td>
+</tr>
+<tr>
+<td> ctrl + F                  </td>
+<td style="text-align:center;"> Mencari kalimat (find)                            </td>
+</tr>
+<tr>
+<td> ctrl + G                  </td>
+<td style="text-align:center;"> Pergi ke (go to)                                  </td>
+</tr>
+<tr>
+<td> ctrl + H                  </td>
+<td style="text-align:center;"> Find and Replace                                  </td>
+</tr>
+<tr>
+<td> ctrl + I                  </td>
+<td style="text-align:center;"> Membuat cetak miring (italic)                     </td>
+</tr>
+<tr>
+<td> ctrl + J                  </td>
+<td style="text-align:center;"> Rata kiri kanan (justify)                         </td>
+</tr>
+<tr>
+<td> ctrl + K                  </td>
+<td style="text-align:center;"> Input alamat tautan (insert hyperlink)            </td>
+</tr>
+<tr>
+<td> ctrl + L                  </td>
+<td style="text-align:center;"> Rata kiri (left)                                  </td>
+</tr>
+<tr>
+<td> ctrl + M                  </td>
+<td style="text-align:center;"> Menggeser penempatan paragraf ke kanan            </td>
+</tr>
+<tr>
+<td> ctrl + N                  </td>
+<td style="text-align:center;"> Membuat lembar kerja baru                         </td>
+</tr>
+<tr>
+<td> ctrl + O                  </td>
+<td style="text-align:center;"> Membuka file yang tersimpan                       </td>
+</tr>
+<tr>
+<td> ctrl + P                  </td>
+<td style="text-align:center;"> Mencetak dokumen                                  </td>
+</tr>
+<tr>
+<td> ctrl + Q                  </td>
+<td style="text-align:center;"> Format paragraf yang telah dibuat                 </td>
+</tr>
+<tr>
+<td> ctrl + R                  </td>
+<td style="text-align:center;"> Rata kanan (right)                                </td>
+</tr>
+<tr>
+<td> ctrl + S                  </td>
+<td style="text-align:center;"> Menyimpan dokumen (save)                          </td>
+</tr>
+<tr>
+<td> ctrl + T                  </td>
+<td style="text-align:center;"> Menggeser hangin indent bawah ke kanan)           </td>
+</tr>
+<tr>
+<td> ctrl + U                  </td>
+<td style="text-align:center;"> Membuat garis bawah (underline)                   </td>
+</tr>
+<tr>
+<td> ctrl + V                  </td>
+<td style="text-align:center;"> Tempel (Paste)                                    </td>
+</tr>
+<tr>
+<td> ctrl + W                  </td>
+<td style="text-align:center;"> Keluar dari dokumen                               </td>
+</tr>
+<tr>
+<td> ctrl + X                  </td>
+<td style="text-align:center;"> Memotong/pindah (cut)                             </td>
+</tr>
+<tr>
+<td> ctrl + Y                  </td>
+<td style="text-align:center;"> Mengembalikan perintah yang dibatalkan (redo)     </td>
+</tr>
+<tr>
+<td> ctrl + Z                  </td>
+<td style="text-align:center;"> Membatalkan perintah sebelumnya (undo)            </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Tambahan selain dari huruf A-Z, aku juga akan memberikan tambahan jalan pintas.</p>
+
+<table>
+<thead>
+<tr>
+<th> Tombol Shortcut           </th>
+<th style="text-align:center;"> Fungsi                                                </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> ctrl + Shift + M          </td>
+<td style="text-align:center;"> Menggeser penempatan paragraf ke kiri                 </td>
+</tr>
+<tr>
+<td> ctrl + Shift + T          </td>
+<td style="text-align:center;"> Menggeser hangin indent bawah ke kiri                 </td>
+</tr>
+<tr>
+<td> ctrl + [                  </td>
+<td style="text-align:center;"> Mengecilkan huruf                                     </td>
+</tr>
+<tr>
+<td> ctrl + ]                  </td>
+<td style="text-align:center;"> Membesarkan huruf                                     </td>
+</tr>
+<tr>
+<td> shift + F3                </td>
+<td style="text-align:center;"> Pengaturan Case : Uppercase, Lowercase, Sentence Case </td>
+</tr>
+<tr>
+<td> Alt + F4                  </td>
+<td style="text-align:center;"> Keluar dari lembar kerja                              </td>
+</tr>
+<tr>
+<td> ctrl + Enter              </td>
+<td style="text-align:center;"> Melompat ke halaman baru                              </td>
+</tr>
+<tr>
+<td> F12                       </td>
+<td style="text-align:center;"> Menyimpan kembali dengan nama yang sama               </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Demikianlah segelintir jalan pintas di microsoft word, semoga bermanfaat bagi temen-temen dan apabila temen-temen ingin menshare kembali jangan lupa mencantumkan link terkait yaa. terima kasih.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cara Membuat Kop Surat Di Ms Word]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/30/cara-membuat-kop-surat-di-ms-word/"/>
+    <updated>2014-09-30T22:47:56+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/30/cara-membuat-kop-surat-di-ms-word</id>
+    <content type="html"><![CDATA[<p>Kemaren aku telah berbagi ilmu tentang area kerja microsoft word. sekarang aku lanjutkan tentang Cara Membuat Kop Surat di Ms.Word. temen-temen pasti pernah liat kan bentuk kop surat seperti apa hayo apabila temen-temen tidak tahu sini-sini aku kasih contohnya, bisa dicek pict dibawah ini.</p>
+
+<p><img class="<a" src="href="http://downloaddesain.com/wp-content/uploads/2012/01/contoh-kop-surat-koperasi.jpg">http://downloaddesain.com/wp-content/uploads/2012/01/contoh-kop-surat-koperasi.jpg</a>&#8221;></p>
+
+<!-- more -->
+
+
+<p>Langsung saja yaa berbagi ilmunya, pertama temen-temen bisa sediakan kopi terlebih dahulu. Loh ko jadi bikin kopi yaa karena kopi temen kita yang paling setia saat temen-temen atau aku sendiri sedang posting dan berbagi ilmu di website ini. Surat resmi yang biasanya temen-temen terima dari sekolah maupun universitas pasti diatasnya terdapat kop surat. Kop surat biasanya berisikan logo, nama perusahaan atau nama kampus/sekolah, alamat, nomer telphon bahkan terkadang disertakan alamat email/website.</p>
+
+<p>Cara membuat kop surat di microsoft office word :</p>
+
+<ul>
+<li><p>Pertama temen-temen buka microsoft office word terlebih dahulu.</p></li>
+<li><p>Pilih menu view pilih tombol print layout.</p></li>
+</ul>
+
+
+<p><img class="<a" src="href="https://lh5.googleusercontent.com/-LtHH3nV9V6k/VCxqvi5k1KI/AAAAAAAAAIc/FWYj6tR_XMw/w994-h559-no/kopsurat1.png">https://lh5.googleusercontent.com/-LtHH3nV9V6k/VCxqvi5k1KI/AAAAAAAAAIc/FWYj6tR_XMw/w994-h559-no/kopsurat1.png</a>&#8221;></p>
+
+<ul>
+<li><p>Double klik pada area header yang terdapat pada bagian atas dokumen, kemudian temen-temen dalam posisi pengeditan header dokumen.</p></li>
+<li><p>Bila masih belum ada, silahkan temen-temen berikan tanda ceklis/cek pada pilihan different first page. hal ini untuk membuat kop surat akan ada dihalaman pertama sedangkan halam kedua dan selanjutnya tidak menggunakan kop surat.</p></li>
+</ul>
+
+
+<p><img class="<a" src="href="https://lh3.googleusercontent.com/-Sy0WS2UJK0E/VCxr5n4iKqI/AAAAAAAAAJA/6yRQzLMJ2iw/w994-h559-no/kopsurat2.png">https://lh3.googleusercontent.com/-Sy0WS2UJK0E/VCxr5n4iKqI/AAAAAAAAAJA/6yRQzLMJ2iw/w994-h559-no/kopsurat2.png</a>&#8221;></p>
+
+<ul>
+<li><p>Geser margin kiri temen-temen ke arah tengah tapi jangan terlalu tengah yaa. Dikira-kira saja sama temen-temen itu cukup tidak untuk menaruh logo yang mungkin akan temen-temen tambahkan.</p></li>
+<li><p>Sekarang temen-temen tinggal ketikan nama perusahaan atau apalah terserah keinginan temen-temen pada header tersebut, jangan lupa tambahkan baris kosong pada baris terakhir.</p></li>
+<li><p>Tambahkan juga logo perusahaan ditempat yang telah disediakan tadi loh. Oh ya jangan lupa ubah layout gambarnya jadi in front of text.</p></li>
+<li><p>Temen-temen atur posisi logo dan teks yang tadi telah diketikan. Sesuka temen-temen.</p></li>
+<li><p>Pilih dan blok baris yang kosong yang ada pada baris terakhir untuk dibuat garis pembatas kop surat.</p></li>
+<li><p>Pilih tab menu home, lalu pilih tombol toolbar border.</p></li>
+<li><p>Dari pilihan popup menu untuk membuat border yang ada, pilih item border and shading.</p></li>
+</ul>
+
+
+<p><img class="<a" src="href="https://lh4.googleusercontent.com/-H6G-hwQBBsw/VCxs8Vg-0AI/AAAAAAAAAJo/7DDBuMjxLMg/w994-h559-no/kopsurat4.png">https://lh4.googleusercontent.com/-H6G-hwQBBsw/VCxs8Vg-0AI/AAAAAAAAAJo/7DDBuMjxLMg/w994-h559-no/kopsurat4.png</a>&#8221;></p>
+
+<ul>
+<li><p>Pada dialog border and shading pada setting kemudian pilih costum, kemudian pilih yang temen-temen inginkan dan klo boleh saran harus sesuai dengan apa yang temen-temen tuliskan loh.</p></li>
+<li><p>Apabila semuanya sudah tinggal pilih OK.</p></li>
+<li><p>Hampir selesai pembuatan kop surat, sekarang tinggal meratakan border yang kalian inginkan.</p></li>
+<li><p>Sekarang klik 2 kali pada area dokumen untuk menutup header view, atau bisa juga dengan klik tab menu header and footer tools lalu design kemudian pilih close header and footer.</p></li>
+<li><p>Berikut tampilan punya aku, sederhana kan.</p></li>
+</ul>
+
+
+<p><img class="<a" src="href="https://lh5.googleusercontent.com/-3I5seNruLiY/VCxuYcvJEGI/AAAAAAAAAKI/mJ9QbTpiZzE/w994-h559-no/kopsurat5.png">https://lh5.googleusercontent.com/-3I5seNruLiY/VCxuYcvJEGI/AAAAAAAAAKI/mJ9QbTpiZzE/w994-h559-no/kopsurat5.png</a>&#8221;></p>
+
+<p>Terima kasih sudah berkunjung disini, apabila masih kurang temen-temen bisa mengirimkan email/mention saja.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sejarah Microsoft Word]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/22/sejarah-microsoft-word/"/>
+    <updated>2014-09-22T22:25:42+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/22/sejarah-microsoft-word</id>
+    <content type="html"><![CDATA[<p>Sebelum temen-temen belajar tentang microsoft word alangkah baiknya kita mengerti apa itu microsoft word. Silahkan disimak.</p>
+
+<!-- more -->
+
+
+<p>Sejarah dan Definisi singkat
+Microsoft (MS) Word adalah aplikasi pengolah kata (word processor) yang merupakan bagian dari paket aplikasi Microsoft Office yang dikembangkan oleh perusahaan pembuat piranti lunak Microsoft.
+MS Word merupakan Microsoft Word atau Microsoft Office Word atau Word adalah perangkat lunak pengolah kata (word processor) andalan Microsoft. Pertama diterbitkan pada 1983 dengan nama Multi-Tool Word untuk Xenix, versi-versi lain kemudian dikembangkan untuk berbagai sistem operasi, misalnya DOS (1983), Apple Macintosh (1984), SCO UNIX, OS/2, dan Microsoft Windows (1989). Setelah menjadi bagian dari Microsoft Office System 2003 dan 2007 diberi nama Microsoft Office Word. Di Microsoft Office 2013, Namanya cukup dinamakan Word&#8217;.</p>
+
+<p>Program pengolah kata Microsoft Word telah mengeluarkan versi 1.0. sampai 6.0. untuk versi DOS. Sampai saat ini telah berkembang berbagai versi dari aplikasi pengolah kata, misalnya MS Word 6.1, MS Word 97, MS Word XP, dan MS Word 2000, 2003, 2007, 2010, 2013. Hari berikutnya aku share tentang Ms.Word selain sejarah.</p>
+]]></content>
+  </entry>
+  
+</feed>

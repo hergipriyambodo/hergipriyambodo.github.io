@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | Hergi Priyambodo]]></title>
+  <link href="http://hergipriyambodo.com/read/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://hergipriyambodo.com/"/>
+  <updated>2014-12-01T20:38:30+07:00</updated>
+  <id>http://hergipriyambodo.com/</id>
+  <author>
+    <name><![CDATA[Hergi Priyambodo]]></name>
+    <email><![CDATA[mashergi@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Konfigurasi Plugin Categories Sidebar Di Octopress]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/19/konfigurasi-plugin-categories-sidebar-di-octopress/"/>
+    <updated>2014-09-19T23:31:47+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/19/konfigurasi-plugin-categories-sidebar-di-octopress</id>
+    <content type="html"><![CDATA[<p>Assalamualaikum wr.wb
+Ketemu lagi sama aku semoga gak bosen yaa. Kali ini aku mau berbagi ilmu dan judul yang aku ambil adalah jreng jreng &ldquo;Konfigurasi plugin kategori sidebar di octopress&rdquo;. Tanpa berlama-lama lagi aku mulai yaa. cekidot.</p>
+
+<!-- more -->
+
+
+<ul>
+<li>Temen-temen menambahkan file kedirektori plugin lalu memberi nama filenya <code>category_list_tag.rb</code></li>
+<li>Temen-temen ketikan code ruby dibawah ini klo temen-temen males ketik lebih baik copy paste aja.
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>module Jekyll
+</span><span class='line'>class CategoryListTag <span class="p">&amp;</span>lt<span class="p">;</span> Liquid::Tag
+</span><span class='line'>  def render<span class="o">(</span>context<span class="o">)</span>
+</span><span class='line'>    <span class="nv">html</span> <span class="o">=</span> <span class="p">&amp;</span>ldquo<span class="p">;&amp;</span>rdquo<span class="p">;</span>
+</span><span class='line'>    <span class="nv">categories</span> <span class="o">=</span> context.registers<span class="o">[</span>:site<span class="o">]</span>.categories.keys
+</span><span class='line'>    categories.sort.each <span class="k">do</span> <span class="p">|</span>category<span class="p">|</span>
+</span><span class='line'>      <span class="nv">posts_in_category</span> <span class="o">=</span> context.registers<span class="o">[</span>:site<span class="o">]</span>.categories<span class="o">[</span>category<span class="o">]</span>.size
+</span><span class='line'>      <span class="nv">category_dir</span> <span class="o">=</span> context.registers<span class="o">[</span>:site<span class="o">]</span>.config<span class="o">[</span><span class="p">&amp;</span>lsquo<span class="p">;</span>category_dir<span class="p">&amp;</span>rsquo<span class="p">;</span><span class="o">]</span>
+</span><span class='line'>      <span class="nv">category_url</span> <span class="o">=</span> File.join<span class="o">(</span>category_dir, category.gsub<span class="o">(</span>/_<span class="p">|</span><span class="se">\P</span><span class="o">{</span>Word<span class="o">}</span>/, <span class="p">&amp;</span>lsquo<span class="p">;</span>-<span class="p">&amp;</span>rsquo<span class="p">;</span><span class="o">)</span>.gsub<span class="o">(</span>/-<span class="o">{</span>2,<span class="o">}</span>/, <span class="p">&amp;</span>lsquo<span class="p">;</span>-<span class="p">&amp;</span>rsquo<span class="p">;</span><span class="o">)</span>.downcase<span class="o">)</span>
+</span><span class='line'>      html <span class="p">&amp;</span>lt<span class="p">;&amp;</span>lt<span class="p">;</span> <span class="p">&amp;</span>ldquo<span class="p">;</span>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;http://hergipriyambodo.com/#{category_url}/&#39;</span>&gt;#<span class="o">{</span>category<span class="o">}</span> <span class="o">(</span><span class="c">#{posts_in_category})&lt;/a&gt;&lt;/li&gt;\n&amp;rdquo;</span>
+</span><span class='line'>    end
+</span><span class='line'>    html
+</span><span class='line'>  end
+</span><span class='line'>end
+</span><span class='line'>end&lt;/li&gt;
+</span><span class='line'>&lt;/ul&gt;
+</span><span class='line'>
+</span><span class='line'>
+</span><span class='line'>&lt;p&gt;Liquid::Template.register_tag<span class="o">(</span><span class="p">&amp;</span>lsquo<span class="p">;</span>category_list<span class="p">&amp;</span>rsquo<span class="p">;</span>, Jekyll::CategoryListTag<span class="o">)</span>
+</span></code></pre></td></tr></table></div></figure></p>
+
+<p>Plug-in ini akan mengambil data kategori dari situs dan menghasilkan daftar item untuk setiap kategori. Pada line 17 tag category_list tersedia untuk liquid template engine. Cek aja di atas.</p>
+
+<ul>
+<li>Sekarang temen-temen harus membuat daftar kategori (category_list.html) template di dalam direktori <code>source/_includes/asides</code> dengan menggunakan “category_list” tag dari plug-in di atas.</li>
+<li><p>Buat file baru <code>source/_includes/asides</code> dengan nama <code>category_list.html</code> dengan isi code sebagi berikut:
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>&lt;section&gt;
+</span><span class='line'>  &lt;h1&gt;Categories&lt;/h1&gt;
+</span><span class='line'>      &lt;ul <span class="nv">id</span><span class="o">=</span><span class="s2">&quot;categories&quot;</span>&gt;
+</span><span class='line'>  &lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/framework/&#39;</span>&gt;framework <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/github/&#39;</span>&gt;github <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/microsoft/&#39;</span>&gt;microsoft <span class="o">(</span>5<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/octopress/&#39;</span>&gt;octopress <span class="o">(</span>4<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/office/&#39;</span>&gt;office <span class="o">(</span>3<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/sidebar/&#39;</span>&gt;sidebar <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/terminal/&#39;</span>&gt;terminal <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/website/&#39;</span>&gt;website <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/word/&#39;</span>&gt;word <span class="o">(</span>4<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>
+</span><span class='line'>      &lt;/ul&gt;
+</span><span class='line'>&lt;/section&gt;
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Cari kode <code>default_asides</code> di file <code>_config.yml</code></p></li>
+<li><p>Tambahkan <code>asides/category_list.html</code> ke dalam daftar asides-nya, misalnya punya aku seperti ini:
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>default_asides: <span class="o">[</span>asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html, asides/category_list.html<span class="o">]</span>
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Terakhir temen-temen tinggal memperbaharui dengan cara menjalankan perintah rake, contohnya
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake preview
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>kemudian
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake generate
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>kemudian
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake deploy
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Dan akhirnya seperti ini (punya aku)</p></li>
+</ul>
+
+
+<p><img class="<a" src="href="https://lh5.googleusercontent.com/-8f6M9qJ7T9w/VBxjai7lvxI/AAAAAAAAADo/6OyIxM_I3VQ/w278-h251/kategori.png">https://lh5.googleusercontent.com/-8f6M9qJ7T9w/VBxjai7lvxI/AAAAAAAAADo/6OyIxM_I3VQ/w278-h251/kategori.png</a>&#8221;></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cara Install Git Di Ubuntu, Windows Dan Mac]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/10/cara-install-git-di-ubuntu-windows-dan-mac/"/>
+    <updated>2014-09-10T22:33:03+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/10/cara-install-git-di-ubuntu-windows-dan-mac</id>
+    <content type="html"><![CDATA[<p>Kemarin kita mencoba membuat blog atau website di octopress, jika kalian telah membaca artikel yang kemaren aku rancang tentu kalian masih ingat kan. Diartikel sebelumnya kan menyuruh kalian menginstall git, nah sekarang aku akan sedikit berbagi bagaimana menginstall git pada ubuntu windows dan mac. Upss, banyak juga yaa operating systemnya. Yaa sekalian saja aku share semuanya aja disini tanpa banyak cingcong, yuk disimak yaa.</p>
+
+<!-- more -->
+
+
+<p>Via Operating System Ubuntu atau Linux.</p>
+
+<ul>
+<li><p>Pertama, temen-temen daftar dulu di <a href="https://github.com/.">https://github.com/.</a> Oh yaa klo daftar ini temen-temen gak pake persyaratan fotocopy KTP ataupun SIM karena bukan untuk mengurus surat KK ataupun Nikah. hahhaaa</p></li>
+<li><p>Jika sudah, ketikan pada terminal (ctrl+alt+t)
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>sudo apt-get install git
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Tunggu sampai prosesnya selesai, nah jika selesai yaa sekarang telah siap dipergunakan.</p></li>
+<li><p>Temen-temen juga bisa mengecheck versinya bukan hack loh tapi cek, caranya
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>git <span class="p">&amp;</span>ndash<span class="p">;</span>version
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Klo punya aku si versinya
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>git version 1.7.9.5
+</span></code></pre></td></tr></table></div></figure></p></li>
+</ul>
+
+
+<p>Via Operating System Windows atau Jendela.
+Sesungguhnya install git pada windows atau jendela itu sangatlah mudah asal temen-temen mengikuti langkah-langkahnya yang share dengan baik. Pasti temen-temen bisa semua, ya dong harus bisa. Cumunguud temen.</p>
+
+<ul>
+<li><p>Cara pertama yaa daftar dulu di website <a href="https://github.com/">https://github.com/</a></p></li>
+<li><p>Temen-temen bisa download file git menggunakan msysGit, cukup download dihalaman github file installasinya.</p></li>
+<li><p>Klo bingung neh aku kasih link downloadnya, tenang aku kasih tanpa iklan atau ads.
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>&lt;a <span class="nv">href</span><span class="o">=</span><span class="s2">&quot;http://msysgit.github.io/&quot;</span>&gt;http://msysgit.github.io/&lt;/a&gt;
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Setelah terinstall temen-temen memperoleh command-line dan versi GUInya.</p></li>
+</ul>
+
+
+<p>Via Operating System MAC.
+Nah cara ini yang belum pernah aku coba, lah wong aku ra duwe apple. Kepiye meh jajal hehehe (jowone metu) tapi tenang setelah aku berselancar/bergoogling ria selama 60 menit akhirnya aku menemukan artikel yang cocok dari git-scm (dot) com. Disini aku menjelaskan 2 cara termudah berdasarkan artikel yang telah aku pelajari.</p>
+
+<ul>
+<li><p>Seperti biasa cara pertama itu daftar dulu di <a href="https://github.com/">https://github.com/</a></p></li>
+<li><p>Temen-temen bisa menggunakan installer git berbasis GUI, yang dapat diperoleh dari halaman SourceForge
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>&lt;a <span class="nv">href</span><span class="o">=</span><span class="s2">&quot;http://sourceforge.net/projects/git-osx-installer/&quot;</span>&gt;http://sourceforge.net/projects/git-osx-installer/&lt;/a&gt;
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Temen-temen juga bisa menggunakan cara yang ini, cara yang ini menggunakan Macports <a href="http://www.macports.org.">http://www.macports.org.</a> Jika sudah menginstall, maka anda dapat menginstall git dengan cara berikut ini :
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nv">$ </span>sudo port install git-core +svn +doc +bash_completion +gitweb
+</span></code></pre></td></tr></table></div></figure></p></li>
+</ul>
+
+
+<p>yaa itu dia cara menginstall git melalui 3 operating system yang berbeda. Apabila ada pertanyaan bisa comment/hubungi saja via akun twitter aku di @mashergi. Ilmu selanjutnya akan segera di share, assalamualaikum.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cara Membuat Blog Atau Website Di Octopress]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/10/cara-membuat-blog-atau-website-di-octopress/"/>
+    <updated>2014-09-10T19:53:26+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/10/cara-membuat-blog-atau-website-di-octopress</id>
+    <content type="html"><![CDATA[<p>Octopress merupakan sebuah framework yang dirancang oleh Brandon Mathis. Framework ini merupakan mesin blog atau wesite secara statis atau lebih tepatnya html statis. Dengan menggunakan framework ini (Octopress) kita hanya perlu mengclone atau menggandakan dari github. Bagaimana cara menginstallnya, yuk disimak satu persatu caranya dimulai dari</p>
+
+<!-- more -->
+
+
+<ul>
+<li>Teman-teman install github terlebih dahulu. Cara install github bisa cek disini.</li>
+<li><p>Install ruby. Cara install ruby dapat cek disini.</p></li>
+<li><p>Apabila semuanya sudah terinstall saatnya mengclone git dari repos octopressnya di terminal (ctrl+alt+t) ubuntu
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>git clone git://github.com/imathis/octopress.git username.github.io
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Ketikan:
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nb">cd </span>username.github.io
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Lalu install gem
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>sudo gem install bundler
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Install bundle
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>bundle install
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Dan yang terakhir install
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake install
+</span></code></pre></td></tr></table></div></figure></p></li>
+<li><p>Temen-temen bisa mencoba mengetest dengan cara membuat post di octopress, bagaimana caranya tunggu kelanjutan ilmunya. Terima kasih sudah mampir, assalamualaikum.</p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Perkenalan]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/08/Perkenalan/"/>
+    <updated>2014-09-08T13:26:13+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/08/Perkenalan</id>
+    <content type="html"><![CDATA[<p>Bissmillahirahmanirrahim.
+Semoga website ini berguna bagi semua yang mengunjungi halaman ini, dan dapat dipergunakan sebagai mestinya. Apabila anda ingin mengcopy semua file silahkan cantumkan link saya agar semuanya enak anda enak saya enak. Jika anda ingin bertanya mengenai apapun, bisa menghubungi saya di mashergi@gmail.com/hergi1992@gmail.com/ atau bisa juga lewat akun twitter saya di @mashergi, jangan lupa di follow yaa. Semoga kita semua sehat walafiat yaa. amiin ya robbalalamin. assalamualaikum</p>
+]]></content>
+  </entry>
+  
+</feed>

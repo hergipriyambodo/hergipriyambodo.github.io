@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Hergi Priyambodo]]></title>
+  <link href="http://hergipriyambodo.com/atom.xml" rel="self"/>
+  <link href="http://hergipriyambodo.com/"/>
+  <updated>2014-12-01T20:38:30+07:00</updated>
+  <id>http://hergipriyambodo.com/</id>
+  <author>
+    <name><![CDATA[Hergi Priyambodo]]></name>
+    <email><![CDATA[mashergi@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Shortcut Keyboard Lengkap Untuk Microsoft Word]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/10/09/shortcut-keyboard-lengkap-untuk-microsoft-word/"/>
+    <updated>2014-10-09T19:15:23+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/10/09/shortcut-keyboard-lengkap-untuk-microsoft-word</id>
+    <content type="html"><![CDATA[<p>Shortcut adalah kombinasi-kombinasi tombol keyboard untuk melakukan sebuah perintah (command line) di MS Word tanpa harus masuk ke menu utama perintah tersebut. Dengan menggunakan shortcut ini, temen-temen bisa meringkas waktu untuk mengetik dan mengedit lembar kerja. Saya mencoba mengumpulkan Shortcut lengkap dari tombol A-Z serta fungsi-fungsinya. Silahkan lihat list shorcut lengkap dibawah ini. Shortcut ini Berlaku untuk  MS Word 2007 ke atas.</p>
+
+<table>
+<thead>
+<tr>
+<th> Tombol Shortcut           </th>
+<th style="text-align:center;"> Fungsi                                            </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> ctrl + A                  </td>
+<td style="text-align:center;"> Memilih/blok semua teks                           </td>
+</tr>
+<tr>
+<td> ctrl + B                  </td>
+<td style="text-align:center;"> Menebalkan huruf (bold)                           </td>
+</tr>
+<tr>
+<td> ctrl + C                  </td>
+<td style="text-align:center;"> Menggandakan kata (copy)                          </td>
+</tr>
+<tr>
+<td> ctrl + D                  </td>
+<td style="text-align:center;"> Memilih jenis huruf (font)                        </td>
+</tr>
+<tr>
+<td> ctrl + E                  </td>
+<td style="text-align:center;"> Rata tengah (center)                              </td>
+</tr>
+<tr>
+<td> ctrl + F                  </td>
+<td style="text-align:center;"> Mencari kalimat (find)                            </td>
+</tr>
+<tr>
+<td> ctrl + G                  </td>
+<td style="text-align:center;"> Pergi ke (go to)                                  </td>
+</tr>
+<tr>
+<td> ctrl + H                  </td>
+<td style="text-align:center;"> Find and Replace                                  </td>
+</tr>
+<tr>
+<td> ctrl + I                  </td>
+<td style="text-align:center;"> Membuat cetak miring (italic)                     </td>
+</tr>
+<tr>
+<td> ctrl + J                  </td>
+<td style="text-align:center;"> Rata kiri kanan (justify)                         </td>
+</tr>
+<tr>
+<td> ctrl + K                  </td>
+<td style="text-align:center;"> Input alamat tautan (insert hyperlink)            </td>
+</tr>
+<tr>
+<td> ctrl + L                  </td>
+<td style="text-align:center;"> Rata kiri (left)                                  </td>
+</tr>
+<tr>
+<td> ctrl + M                  </td>
+<td style="text-align:center;"> Menggeser penempatan paragraf ke kanan            </td>
+</tr>
+<tr>
+<td> ctrl + N                  </td>
+<td style="text-align:center;"> Membuat lembar kerja baru                         </td>
+</tr>
+<tr>
+<td> ctrl + O                  </td>
+<td style="text-align:center;"> Membuka file yang tersimpan                       </td>
+</tr>
+<tr>
+<td> ctrl + P                  </td>
+<td style="text-align:center;"> Mencetak dokumen                                  </td>
+</tr>
+<tr>
+<td> ctrl + Q                  </td>
+<td style="text-align:center;"> Format paragraf yang telah dibuat                 </td>
+</tr>
+<tr>
+<td> ctrl + R                  </td>
+<td style="text-align:center;"> Rata kanan (right)                                </td>
+</tr>
+<tr>
+<td> ctrl + S                  </td>
+<td style="text-align:center;"> Menyimpan dokumen (save)                          </td>
+</tr>
+<tr>
+<td> ctrl + T                  </td>
+<td style="text-align:center;"> Menggeser hangin indent bawah ke kanan)           </td>
+</tr>
+<tr>
+<td> ctrl + U                  </td>
+<td style="text-align:center;"> Membuat garis bawah (underline)                   </td>
+</tr>
+<tr>
+<td> ctrl + V                  </td>
+<td style="text-align:center;"> Tempel (Paste)                                    </td>
+</tr>
+<tr>
+<td> ctrl + W                  </td>
+<td style="text-align:center;"> Keluar dari dokumen                               </td>
+</tr>
+<tr>
+<td> ctrl + X                  </td>
+<td style="text-align:center;"> Memotong/pindah (cut)                             </td>
+</tr>
+<tr>
+<td> ctrl + Y                  </td>
+<td style="text-align:center;"> Mengembalikan perintah yang dibatalkan (redo)     </td>
+</tr>
+<tr>
+<td> ctrl + Z                  </td>
+<td style="text-align:center;"> Membatalkan perintah sebelumnya (undo)            </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Tambahan selain dari huruf A-Z, aku juga akan memberikan tambahan jalan pintas.</p>
+
+<table>
+<thead>
+<tr>
+<th> Tombol Shortcut           </th>
+<th style="text-align:center;"> Fungsi                                                </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> ctrl + Shift + M          </td>
+<td style="text-align:center;"> Menggeser penempatan paragraf ke kiri                 </td>
+</tr>
+<tr>
+<td> ctrl + Shift + T          </td>
+<td style="text-align:center;"> Menggeser hangin indent bawah ke kiri                 </td>
+</tr>
+<tr>
+<td> ctrl + [                  </td>
+<td style="text-align:center;"> Mengecilkan huruf                                     </td>
+</tr>
+<tr>
+<td> ctrl + ]                  </td>
+<td style="text-align:center;"> Membesarkan huruf                                     </td>
+</tr>
+<tr>
+<td> shift + F3                </td>
+<td style="text-align:center;"> Pengaturan Case : Uppercase, Lowercase, Sentence Case </td>
+</tr>
+<tr>
+<td> Alt + F4                  </td>
+<td style="text-align:center;"> Keluar dari lembar kerja                              </td>
+</tr>
+<tr>
+<td> ctrl + Enter              </td>
+<td style="text-align:center;"> Melompat ke halaman baru                              </td>
+</tr>
+<tr>
+<td> F12                       </td>
+<td style="text-align:center;"> Menyimpan kembali dengan nama yang sama               </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Demikianlah segelintir jalan pintas di microsoft word, semoga bermanfaat bagi temen-temen dan apabila temen-temen ingin menshare kembali jangan lupa mencantumkan link terkait yaa. terima kasih.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cara Membuat Kop Surat Di Ms Word]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/30/cara-membuat-kop-surat-di-ms-word/"/>
+    <updated>2014-09-30T22:47:56+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/30/cara-membuat-kop-surat-di-ms-word</id>
+    <content type="html"><![CDATA[<p>Kemaren aku telah berbagi ilmu tentang area kerja microsoft word. sekarang aku lanjutkan tentang Cara Membuat Kop Surat di Ms.Word. temen-temen pasti pernah liat kan bentuk kop surat seperti apa hayo apabila temen-temen tidak tahu sini-sini aku kasih contohnya, bisa dicek pict dibawah ini.</p>
+
+<p><img src="http://downloaddesain.com/wp-content/uploads/2012/01/contoh-kop-surat-koperasi.jpg"></p>
+
+<!-- more -->
+
+
+<p>Langsung saja yaa berbagi ilmunya, pertama temen-temen bisa sediakan kopi terlebih dahulu. Loh ko jadi bikin kopi yaa karena kopi temen kita yang paling setia saat temen-temen atau aku sendiri sedang posting dan berbagi ilmu di website ini. Surat resmi yang biasanya temen-temen terima dari sekolah maupun universitas pasti diatasnya terdapat kop surat. Kop surat biasanya berisikan logo, nama perusahaan atau nama kampus/sekolah, alamat, nomer telphon bahkan terkadang disertakan alamat email/website.</p>
+
+<p>Cara membuat kop surat di microsoft office word :</p>
+
+<ul>
+<li><p>Pertama temen-temen buka microsoft office word terlebih dahulu.</p></li>
+<li><p>Pilih menu view pilih tombol print layout.</p></li>
+</ul>
+
+
+<p><img src="https://lh5.googleusercontent.com/-LtHH3nV9V6k/VCxqvi5k1KI/AAAAAAAAAIc/FWYj6tR_XMw/w994-h559-no/kopsurat1.png"></p>
+
+<ul>
+<li><p>Double klik pada area header yang terdapat pada bagian atas dokumen, kemudian temen-temen dalam posisi pengeditan header dokumen.</p></li>
+<li><p>Bila masih belum ada, silahkan temen-temen berikan tanda ceklis/cek pada pilihan different first page. hal ini untuk membuat kop surat akan ada dihalaman pertama sedangkan halam kedua dan selanjutnya tidak menggunakan kop surat.</p></li>
+</ul>
+
+
+<p><img src="https://lh3.googleusercontent.com/-Sy0WS2UJK0E/VCxr5n4iKqI/AAAAAAAAAJA/6yRQzLMJ2iw/w994-h559-no/kopsurat2.png"></p>
+
+<ul>
+<li><p>Geser margin kiri temen-temen ke arah tengah tapi jangan terlalu tengah yaa. Dikira-kira saja sama temen-temen itu cukup tidak untuk menaruh logo yang mungkin akan temen-temen tambahkan.</p></li>
+<li><p>Sekarang temen-temen tinggal ketikan nama perusahaan atau apalah terserah keinginan temen-temen pada header tersebut, jangan lupa tambahkan baris kosong pada baris terakhir.</p></li>
+<li><p>Tambahkan juga logo perusahaan ditempat yang telah disediakan tadi loh. Oh ya jangan lupa ubah layout gambarnya jadi in front of text.</p></li>
+<li><p>Temen-temen atur posisi logo dan teks yang tadi telah diketikan. Sesuka temen-temen.</p></li>
+<li><p>Pilih dan blok baris yang kosong yang ada pada baris terakhir untuk dibuat garis pembatas kop surat.</p></li>
+<li><p>Pilih tab menu home, lalu pilih tombol toolbar border.</p></li>
+<li><p>Dari pilihan popup menu untuk membuat border yang ada, pilih item border and shading.</p></li>
+</ul>
+
+
+<p><img src="https://lh4.googleusercontent.com/-H6G-hwQBBsw/VCxs8Vg-0AI/AAAAAAAAAJo/7DDBuMjxLMg/w994-h559-no/kopsurat4.png"></p>
+
+<ul>
+<li><p>Pada dialog border and shading pada setting kemudian pilih costum, kemudian pilih yang temen-temen inginkan dan klo boleh saran harus sesuai dengan apa yang temen-temen tuliskan loh.</p></li>
+<li><p>Apabila semuanya sudah tinggal pilih OK.</p></li>
+<li><p>Hampir selesai pembuatan kop surat, sekarang tinggal meratakan border yang kalian inginkan.</p></li>
+<li><p>Sekarang klik 2 kali pada area dokumen untuk menutup header view, atau bisa juga dengan klik tab menu header and footer tools lalu design kemudian pilih close header and footer.</p></li>
+<li><p>Berikut tampilan punya aku, sederhana kan.</p></li>
+</ul>
+
+
+<p><img src="https://lh5.googleusercontent.com/-3I5seNruLiY/VCxuYcvJEGI/AAAAAAAAAKI/mJ9QbTpiZzE/w994-h559-no/kopsurat5.png"></p>
+
+<p>Terima kasih sudah berkunjung disini, apabila masih kurang temen-temen bisa mengirimkan email/mention saja.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lembar Kerja Microsoft Word]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/29/lembar-kerja-microsoft-word/"/>
+    <updated>2014-09-29T16:02:29+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/29/lembar-kerja-microsoft-word</id>
+    <content type="html"><![CDATA[<p>Tanpa basa-basi lagi yuk kita mulai dari membuka file microsoft word. Apabila temen-temen tidak tahu cara membuka microsof word, sini aku kasih tahu caranya. Lebih lengkapnya cek pict dibawah ini</p>
+
+<p><img src="https://lh4.googleusercontent.com/-FdwM2IR5rFU/VClx7VsN3vI/AAAAAAAAAHo/WUXeDeX7a64/w800-h449-no/Msword.png"></p>
+
+<p>temen-temen tinggal klik yang sudah saya kasih bulatan/temen-temen bisa mengikuti arahan dari aku.</p>
+
+<!-- more -->
+
+
+<ul>
+<li><p>Pilih menu start atau pilih tombol yang bergambar logo windows pada keyboard</p></li>
+<li><p>Pilh dan klik microsoft windows pada menu bar</p></li>
+<li><p>Tunggu sampai jendela microsoft word terbuka</p></li>
+<li><p>Apabila telah terbuka maka tampilannya akan seperti ini</p></li>
+</ul>
+
+
+<p><img src="https://lh6.googleusercontent.com/-h2TsE-D6QBk/VClxDrVunDI/AAAAAAAAAHE/MbVaeYlZbQs/w994-h559-no/msword2.png"></p>
+
+<p>Oh ya untuk penjelasan angka-angka yang tertera pada gambar bisa dicek dibawah ini, cekidot vroh.
+Keterangannya</p>
+
+<p>   1.Ribbon menu</p>
+
+<p>Adalah menu utama untuk lembar kerja MS Word. Beberapa orang masih sering menyebutnya dengan Menu Home. Di menu ini semua tools dan command diletakkan. Menu utama ini juga memiliki beberapa bagian atau sub-sub terkait dengan tab menunya.</p>
+
+<p>   2.Lembar kerja doc</p>
+
+<p>Visualisasi kertas tempat kita mengetikkan dan memasukkan gambar di dalam dokumen Word.</p>
+
+<p>   3.Toolbar</p>
+
+<p>Sama seperti ribbon menu yaa vroh.</p>
+
+<p>   4.Nama File</p>
+
+<p>Nama file yang sedang terbuka/aktif. Secara default, ketika membuka MS Word maka file akan bernama Document1 dengan eksistensi file .docx. Nama file tersebut bisa kita ubah dan sesuaikan sesuai dengan keinginan.</p>
+
+<p>   5.Ruler</p>
+
+<p>Penggaris sebagai pembantu dalam mengukur margin, kertas, dan juga jarak antar paragraf. Sepertinya semua orang tahu, apa gunanya penggaris itu.</p>
+
+<p>   6.Display</p>
+
+<p>Temen-temen bisa mengatur Display atau tampilan dari bentuk lembar kerja kita dengan beberapa pilihan yang tersedia. Lebih jelasnya silahkan baca artikel Tampilan Halaman MS Word.</p>
+
+<p>   7.Tab Menu</p>
+
+<p>Bagian dari Menu Ribbon, setiap perpindahan sub menu sering diberi istilah tab menu. Seperti, tab menu Home, tab Menu Page Layout, dan lain-lain.</p>
+
+<p>   8.Vertical Sliding Bar</p>
+
+<p>Alat bantu untuk menggulir/scroll halaman lembar kerja kita. Jika kita menggunakan display yang lebih besar, maka akan muncul Horizontal Sliding bar di bagian bawah areal kerja untuk membantu kita menggeser ke kanan dan kiri halaman tersebut.</p>
+
+<p>Ya seginilah sekiranya penjelasan mengenai area kerja microsoft word, apabila ada yang kurang atau sekedar bertanya jangan ragu untuk menghubungi aku via email. Terima kasih *kecup</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cara Membuat Majalah Dengan Microsoft Word]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/23/cara-membuat-majalah-dengan-microsoft-word/"/>
+    <updated>2014-09-23T23:52:26+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/23/cara-membuat-majalah-dengan-microsoft-word</id>
+    <content type="html"><![CDATA[<p>Sejujurnya, membuat majalah dengan Microsoft Word bisa dikatakan tidak bisa. MS Word adalah aplikasi pengolah kata, bukan sebagai aplikasi publishing, atau aplikasi lain yang memang mendukung untuk setting layout. Namun bukan berarti temen-temen tidak bisa mencoba agar dokumen temen-temen bisa terlihat seperti sebuah majalah atau koran. Di sini aku mencoba menjelaskan langkah-langkah untuk membuat tampilan Majalah dengan memanfaatkan fitur-fitur di dalam MS Word.</p>
+
+<p>Semoga artikel ini bisa bermanfaat bagi para visitor/pengunjung yang ingin mempelajari/membuat majalah dengan ms.word. Jika dibandingkan dengan aplikasi desain grafis seperti Photoshop atau CorelDraw, tampilan majalah versi MS Word ini mungkin tidak ada apa-apanya. Mungkin bagi temen-temen yang mempunyai tugas dari sekolah untuk menghiasi majalah dinding sekolah dan belum bisa mengoptimalkan penggunaan aplikasi desain grafis mungkin dengan artikel ini temen-temen bisa membuat serta majalah dinding sekolah bisa terpenuhi dengan majalah karya temen-temen. Yuk tanpa banyak cakap lagi, aku mulai saja berbagi artikel ini. Disimak yaa.</p>
+
+<!-- more -->
+
+
+<p>Membuat Majalah versi MS Word</p>
+
+<ul>
+<li>Mengetik Konten Artikel dan Memberi Efek</li>
+</ul>
+
+
+<p>Langkah pertama adalah dengan membuat dokumen. Di sini aku membuat profil tentang Aura Kasih (*matabelo), profilnya aku kutip dari wikipedia. Silahkan temen-temen membuat artikel apa saja yang temen-temen suka. Mulailah mengetik beberapa paragraf sebagai isi/konten dari majalah yang kita buat. Jangan lupa untuk mengatur style paragraf (alignment), ukuran dan jenis font dan juga mengganti warna font dengan warna yang sesuai dengan keinginan kita. Selanjutnya, kita mengedit konten dengan memberikan sedikit sentuhan dan tambahan objek pada teks. Alangkah lebih baiknya jika temen-temen membaca artikel aku tentang cara membuat Drop Cap.</p>
+
+<ul>
+<li>Sisipkan Gambar dan Kasih Sentuhan Variasi Tampilan</li>
+</ul>
+
+
+<p>Sebuah majalah pasti akan menampilkan visualisasi/gambar di sela-sela artikel. Gambar yang aku pakai sebagai ilustrasi dari isi konten yang kita buat. Pastikan gambar yang akan kita masukkan memiliki hubungan dengan isi artikel. Karena aku membuat artikel tentang Aura Kasih, sudah pasti foto yang aku inputkan adalah foto Aura Kasih bukan foto pacar aku. Jangan sampai temen-temen membuat artikel resep makanan tapi gambar di dalamnya adalah foto Miyabi, sangat tidak lucu kan&hellip;
+Untuk memasukkan gambar ke dalam dokumen MS Word, klik Tab Menu Insert pada bagian Illustrations, pilih Picture. Lihat gambar berikut.</p>
+
+<p><img src="https://lh5.googleusercontent.com/-faBIVgCbhpA/VCJWX0WHQhI/AAAAAAAAAEU/CSM4lPralm8/w994-h559-no/Majalah%2BWord.png"></p>
+
+<p>Setelah gambar diinputkan kita akan diberikan beberapa opsi untuk mensetting gambar tersebut. Klik kanan pada gambar, setelah drop menu muncul cari menu Wraping Text Tight. Dengan menggunakan opsi Tight, teks yang berada di sekitar area gambar akan mengikuti lekuk/bentuk gambar sehingga teks tidak akan menimpa/menutupi gambar tersebut. Lihat gambar berikut ini :</p>
+
+<p><img src="https://lh5.googleusercontent.com/-zvsquPoO044/VCJXtKt6FwI/AAAAAAAAAFY/7IxpWUsXfOE/w994-h559-no/Majalah%2Bword3.png"></p>
+
+<p>Masih dalam fokus untuk mengatur tampilan gambar. Klik gambar tadi, lalu perhatikan perubahan pada Ribbon Menu. Di sana akan muncul Picture Tolls serta berbagai pilihan formatnya.</p>
+
+<p><img src="https://lh3.googleusercontent.com/-C0yrFeABiWY/VCJW70lW3-I/AAAAAAAAAE0/ti88DWvdBm0/w995-h106-no/Majalah%2BWord2.png"></p>
+
+<p>Pada Tab Picture Style, silahkan memilih varian bentuk gambar yang diberikan. Untuk melihat secara lengkap klik tanda panah kecil yang berada di kanan bawah menu Picture Style.</p>
+
+<ul>
+<li>Memberi Sentuhan Artistik</li>
+</ul>
+
+
+<p>Klik menu Tab Insert lalu pilih menu Word Art. Pilih style yang diinginkan Lalu ketikkan Teks sebagai judul dari Artikel Majalah kita. Setelah selesai, tekan enter kemduian klik pada garis-garis pembatas ketika kursor sudah berubah bentuk menjadi ikon move untuk mengatur letak dan ukuran dari Word Art tadi.</p>
+
+<ul>
+<li>Finishing</li>
+</ul>
+
+
+<p>Untuk finishing aku kembalikan kepada kreativitas pembaca sendiri, mungkin para pembaca ingin memberikan lebih banyak sentuhan dengan menambahkan kolom koran, mengubah warna, memberikan teks efek atau memasukkan objek lain. Setelah itu silahkan lihat hasilnya, dokumen yang temen-temen buat terlihat seperti majalah hanya dengan menggunakan MS Word. Neh hasil punya aku yg telah aku rancang sedemikan mungkin. Cek this out !!!</p>
+
+<p><img src="https://lh3.googleusercontent.com/-RDl3-zNEynw/VCJZQrC7gUI/AAAAAAAAAF8/hkwC5tRpUGs/w365-h516-no/Hasil%2BMajalah%2Bword.png"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sejarah Microsoft Word]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/22/sejarah-microsoft-word/"/>
+    <updated>2014-09-22T22:25:42+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/22/sejarah-microsoft-word</id>
+    <content type="html"><![CDATA[<p>Sebelum temen-temen belajar tentang microsoft word alangkah baiknya kita mengerti apa itu microsoft word. Silahkan disimak.</p>
+
+<!-- more -->
+
+
+<p>Sejarah dan Definisi singkat
+Microsoft (MS) Word adalah aplikasi pengolah kata (word processor) yang merupakan bagian dari paket aplikasi Microsoft Office yang dikembangkan oleh perusahaan pembuat piranti lunak Microsoft.
+MS Word merupakan Microsoft Word atau Microsoft Office Word atau Word adalah perangkat lunak pengolah kata (word processor) andalan Microsoft. Pertama diterbitkan pada 1983 dengan nama Multi-Tool Word untuk Xenix, versi-versi lain kemudian dikembangkan untuk berbagai sistem operasi, misalnya DOS (1983), Apple Macintosh (1984), SCO UNIX, OS/2, dan Microsoft Windows (1989). Setelah menjadi bagian dari Microsoft Office System 2003 dan 2007 diberi nama Microsoft Office Word. Di Microsoft Office 2013, Namanya cukup dinamakan Word&#8217;.</p>
+
+<p>Program pengolah kata Microsoft Word telah mengeluarkan versi 1.0. sampai 6.0. untuk versi DOS. Sampai saat ini telah berkembang berbagai versi dari aplikasi pengolah kata, misalnya MS Word 6.1, MS Word 97, MS Word XP, dan MS Word 2000, 2003, 2007, 2010, 2013. Hari berikutnya aku share tentang Ms.Word selain sejarah.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Konfigurasi Plugin Categories Sidebar Di Octopress]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/19/konfigurasi-plugin-categories-sidebar-di-octopress/"/>
+    <updated>2014-09-19T23:31:47+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/19/konfigurasi-plugin-categories-sidebar-di-octopress</id>
+    <content type="html"><![CDATA[<p>Assalamualaikum wr.wb
+Ketemu lagi sama aku semoga gak bosen yaa. Kali ini aku mau berbagi ilmu dan judul yang aku ambil adalah jreng jreng &ldquo;Konfigurasi plugin kategori sidebar di octopress&rdquo;. Tanpa berlama-lama lagi aku mulai yaa. cekidot.</p>
+
+<!-- more -->
+
+
+<ul>
+<li>Temen-temen menambahkan file kedirektori plugin lalu memberi nama filenya <code>category_list_tag.rb</code></li>
+<li>Temen-temen ketikan code ruby dibawah ini klo temen-temen males ketik lebih baik copy paste aja.</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>module Jekyll
+</span><span class='line'>  class CategoryListTag &lt; Liquid::Tag
+</span><span class='line'>    def render<span class="o">(</span>context<span class="o">)</span>
+</span><span class='line'>      <span class="nv">html</span> <span class="o">=</span> <span class="s2">&quot;&quot;</span>
+</span><span class='line'>      <span class="nv">categories</span> <span class="o">=</span> context.registers<span class="o">[</span>:site<span class="o">]</span>.categories.keys
+</span><span class='line'>      categories.sort.each <span class="k">do</span> <span class="p">|</span>category<span class="p">|</span>
+</span><span class='line'>        <span class="nv">posts_in_category</span> <span class="o">=</span> context.registers<span class="o">[</span>:site<span class="o">]</span>.categories<span class="o">[</span>category<span class="o">]</span>.size
+</span><span class='line'>        <span class="nv">category_dir</span> <span class="o">=</span> context.registers<span class="o">[</span>:site<span class="o">]</span>.config<span class="o">[</span><span class="s1">&#39;category_dir&#39;</span><span class="o">]</span>
+</span><span class='line'>        <span class="nv">category_url</span> <span class="o">=</span> File.join<span class="o">(</span>category_dir, category.gsub<span class="o">(</span>/_<span class="p">|</span><span class="se">\P</span><span class="o">{</span>Word<span class="o">}</span>/, <span class="s1">&#39;-&#39;</span><span class="o">)</span>.gsub<span class="o">(</span>/-<span class="o">{</span>2,<span class="o">}</span>/, <span class="s1">&#39;-&#39;</span><span class="o">)</span>.downcase<span class="o">)</span>
+</span><span class='line'>        html &lt;&lt; <span class="s2">&quot;&lt;li class=&#39;category&#39;&gt;&lt;a href=&#39;/#{category_url}/&#39;&gt;#{category} (#{posts_in_category})&lt;/a&gt;&lt;/li&gt;\n&quot;</span>
+</span><span class='line'>      end
+</span><span class='line'>      html
+</span><span class='line'>    end
+</span><span class='line'>  end
+</span><span class='line'>end
+</span><span class='line'>
+</span><span class='line'>Liquid::Template.register_tag<span class="o">(</span><span class="s1">&#39;category_list&#39;</span>, Jekyll::CategoryListTag<span class="o">)</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Plug-in ini akan mengambil data kategori dari situs dan menghasilkan daftar item untuk setiap kategori. Pada line 17 tag category_list tersedia untuk liquid template engine. Cek aja di atas.</p>
+
+<ul>
+<li>Sekarang temen-temen harus membuat daftar kategori (category_list.html) template di dalam direktori <code>source/_includes/asides</code> dengan menggunakan “category_list” tag dari plug-in di atas.</li>
+<li>Buat file baru <code>source/_includes/asides</code> dengan nama <code>category_list.html</code> dengan isi code sebagi berikut:</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>&lt;section&gt;
+</span><span class='line'>  &lt;h1&gt;Categories&lt;/h1&gt;
+</span><span class='line'>      &lt;ul <span class="nv">id</span><span class="o">=</span><span class="s2">&quot;categories&quot;</span>&gt;
+</span><span class='line'>  &lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/framework/&#39;</span>&gt;framework <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/github/&#39;</span>&gt;github <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/microsoft/&#39;</span>&gt;microsoft <span class="o">(</span>5<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/octopress/&#39;</span>&gt;octopress <span class="o">(</span>4<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/office/&#39;</span>&gt;office <span class="o">(</span>3<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/sidebar/&#39;</span>&gt;sidebar <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/terminal/&#39;</span>&gt;terminal <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/website/&#39;</span>&gt;website <span class="o">(</span>1<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>&lt;li <span class="nv">class</span><span class="o">=</span><span class="s1">&#39;category&#39;</span>&gt;&lt;a <span class="nv">href</span><span class="o">=</span><span class="s1">&#39;/read/categories/word/&#39;</span>&gt;word <span class="o">(</span>4<span class="o">)</span>&lt;/a&gt;&lt;/li&gt;
+</span><span class='line'>
+</span><span class='line'>      &lt;/ul&gt;
+</span><span class='line'>&lt;/section&gt;
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Cari kode <code>default_asides</code> di file <code>_config.yml</code></li>
+<li>Tambahkan <code>asides/category_list.html</code> ke dalam daftar asides-nya, misalnya punya aku seperti ini:</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>default_asides: <span class="o">[</span>asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html, asides/category_list.html<span class="o">]</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Terakhir temen-temen tinggal memperbaharui dengan cara menjalankan perintah rake, contohnya</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake preview
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>kemudian</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake generate
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>kemudian</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake deploy
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Dan akhirnya seperti ini (punya aku)</li>
+</ul>
+
+
+<p><img src="https://lh5.googleusercontent.com/-8f6M9qJ7T9w/VBxjai7lvxI/AAAAAAAAADo/6OyIxM_I3VQ/w278-h251/kategori.png"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Konfigurasi SEO Keywords Di Octopress]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/17/konfigurasi-SEO-Keywords-di-Octopress/"/>
+    <updated>2014-09-17T09:13:01+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/17/konfigurasi-SEO-Keywords-di-Octopress</id>
+    <content type="html"><![CDATA[<p>Sebelum posting, aku mau tanya dulu neh sama temen-temen. Ada yang tahu SEO gak ? hayo acungkan jari kalian yang tahu. Apabila belum, sini aku kasih tahu biar lebih tahu dan cerdas. Yuk disimak.</p>
+
+<p>SEO kepanjangan dari Search Engine Optimization sedangkan pengertian dari SEO adalah serangkaian proses yang dilakukan secara sistematis yang bertujuan untuk meningkatkan volume dan kualitas trafik kunjungan melalui mesin pencari menuju situs web tertentu dengan memanfaatkan mekanisme kerja atau algoritma mesin pencari tersebut. Tujuan dari SEO adalah menempatkan sebuah situs web pada posisi teratas, atau setidaknya halaman pertama hasil pencarian berdasarkan kata kunci tertentu yang ditargetkan. Secara logis, situs web yang menempati posisi teratas pada hasil pencarian memiliki peluang lebih besar untuk mendapatkan pengunjung. via wikipedia</p>
+
+<!-- more -->
+
+
+<p>Nah tadi penjelasan mengenai arti dari SEO, sekarang tinggal mengkonfigurasi SEO di Octopress. Temen-temen yang sudah ahli dalam bidang website pasti memahami arti pentingnya sebuah SEO dan bagi yang belum pahami betul-betul pengertian tadi. Yuk dilanjut, Cara mengkonfigurasi SEO keywords di Octopress :</p>
+
+<ul>
+<li>Temen-temen merubah dulu file <code>_config.yml</code></li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>url: http://hergipriyambodo.github.io
+</span><span class='line'>title: Hergi Priyambodo
+</span><span class='line'>subtitle: Framework is a method <span class="k">for</span> like programming languages.
+</span><span class='line'>author: Hergi Priyambodo
+</span><span class='line'>simple_search: http://google.com/search
+</span><span class='line'>
+</span><span class='line'>description: <span class="s2">&quot;Framework is a method for like programming languages or Framework adalah suatu metode untuk menyukai bahasa pemrograman internet.&quot;</span>
+</span><span class='line'>keywords: <span class="s2">&quot;keywords a, keywords b, dll&quot;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Diatas merupakan contoh file <code>_config.yml</code> punya aku, temen-temen bisa mengedit kurang lebih seperti diatas tapi jangan sama persis yaa.</p>
+
+<ul>
+<li>Buka <code>Rakefile</code>
+Tambahkan puts seperti gambar dibawah ini</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>post.puts <span class="s2">&quot;description: &quot;</span>
+</span><span class='line'>post.puts <span class="s2">&quot;keywords: &quot;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Temen-temen bisa menambahkan kode tadi seperti dibawah ini</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="c"># usage rake new_post[my-new-post] or rake new_post[&#39;my new post&#39;] or rake new_post (defaults to &quot;new-post&quot;)</span>
+</span><span class='line'>desc <span class="s2">&quot;Begin a new post in #{source_dir}/#{posts_dir}&quot;</span>
+</span><span class='line'>task :new_post, :title <span class="k">do</span> <span class="p">|</span>t, args<span class="p">|</span>
+</span><span class='line'>  <span class="k">if</span> args.title
+</span><span class='line'>    <span class="nv">title</span> <span class="o">=</span> args.title
+</span><span class='line'>  <span class="k">else</span>
+</span><span class='line'>    <span class="nv">title</span> <span class="o">=</span> get_stdin<span class="o">(</span><span class="s2">&quot;Enter a title for your post: &quot;</span><span class="o">)</span>
+</span><span class='line'>  end
+</span><span class='line'>  raise <span class="s2">&quot;### You haven&#39;t set anything up yet. First run `rake install` to set up an Octopress theme.&quot;</span> unless File.directory?<span class="o">(</span>source_dir<span class="o">)</span>
+</span><span class='line'>  mkdir_p <span class="s2">&quot;#{source_dir}/#{posts_dir}&quot;</span>
+</span><span class='line'>  <span class="nv">filename</span> <span class="o">=</span> <span class="s2">&quot;#{source_dir}/#{posts_dir}/#{Time.now.strftime(&#39;%Y-%m-%d&#39;)}-#{title.to_url}.#{new_post_ext}&quot;</span>
+</span><span class='line'>  <span class="k">if</span> File.exist?<span class="o">(</span>filename<span class="o">)</span>
+</span><span class='line'>    abort<span class="o">(</span><span class="s2">&quot;rake aborted!&quot;</span><span class="o">)</span> <span class="k">if</span> ask<span class="o">(</span><span class="s2">&quot;#{filename} already exists. Do you want to overwrite?&quot;</span>, <span class="o">[</span><span class="s1">&#39;y&#39;</span>, <span class="s1">&#39;n&#39;</span><span class="o">])</span> <span class="o">==</span> <span class="s1">&#39;n&#39;</span>
+</span><span class='line'>  end
+</span><span class='line'>  puts <span class="s2">&quot;Creating new post: #{filename}&quot;</span>
+</span><span class='line'>  open<span class="o">(</span>filename, <span class="s1">&#39;w&#39;</span><span class="o">)</span> <span class="k">do</span> <span class="p">|</span>post<span class="p">|</span>
+</span><span class='line'>    post.puts <span class="s2">&quot;---&quot;</span>
+</span><span class='line'>    post.puts <span class="s2">&quot;layout: post&quot;</span>
+</span><span class='line'>    post.puts <span class="s2">&quot;title: \&quot;#{title.gsub(/&amp;/,&#39;&amp;amp;&#39;)}\&quot;&quot;</span>
+</span><span class='line'>    post.puts <span class="s2">&quot;date: #{Time.now.strftime(&#39;%Y-%m-%d %H:%M:%S %z&#39;)}&quot;</span>
+</span><span class='line'>    post.puts <span class="s2">&quot;comments: true&quot;</span>
+</span><span class='line'>    post.puts <span class="s2">&quot;categories: &quot;</span>
+</span><span class='line'>    --&gt; post.puts <span class="s2">&quot;description: &quot;</span>
+</span><span class='line'>    --&gt; post.puts <span class="s2">&quot;keywords: &quot;</span>
+</span><span class='line'>    post.puts <span class="s2">&quot;---&quot;</span>
+</span><span class='line'>  end
+</span><span class='line'>end
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Oh yaa temen-temen jangan menambahkan (&ndash;>) temen-temen hanya menambahkan perintah yang tadi. Oke</p>
+
+<ul>
+<li>Temen-temen juga harus menambahkan kode tadi di <code>new_page</code> lokasinya sama seperti tadi tinggal scroll aja. Neh aku kasih gambarnya.</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>desc <span class="s2">&quot;Create a new page in #{source_dir}/(filename)/index.#{new_page_ext}&quot;</span>
+</span><span class='line'>task :new_page, :filename <span class="k">do</span> <span class="p">|</span>t, args<span class="p">|</span>
+</span><span class='line'>  raise <span class="s2">&quot;### You haven&#39;t set anything up yet. First run `rake install` to set up an Octopress theme.&quot;</span> unless File.directory?<span class="o">(</span>source_dir<span class="o">)</span>
+</span><span class='line'>  args.with_defaults<span class="o">(</span>:filename <span class="o">=</span>&gt; <span class="s1">&#39;new-page&#39;</span><span class="o">)</span>
+</span><span class='line'>  <span class="nv">page_dir</span> <span class="o">=</span> <span class="o">[</span>source_dir<span class="o">]</span>
+</span><span class='line'>  <span class="k">if</span> args.filename.downcase <span class="o">=</span>~ /<span class="o">(</span>^.+<span class="se">\/</span><span class="o">)</span>?<span class="o">(</span>.+<span class="o">)</span>/
+</span><span class='line'>    filename, dot, <span class="nv">extension</span> <span class="o">=</span> <span class="nv">$2</span>.rpartition<span class="o">(</span><span class="s1">&#39;.&#39;</span><span class="o">)</span>.reject<span class="o">(</span><span class="p">&amp;</span>:empty?<span class="o">)</span>         <span class="c"># Get filename and extension</span>
+</span><span class='line'>    <span class="nv">title</span> <span class="o">=</span> filename
+</span><span class='line'>    page_dir.concat<span class="o">(</span><span class="nv">$1</span>.downcase.sub<span class="o">(</span>/^<span class="se">\/</span>/, <span class="s1">&#39;&#39;</span><span class="o">)</span>.split<span class="o">(</span><span class="s1">&#39;/&#39;</span><span class="o">))</span> unless <span class="nv">$1</span>.nil?  <span class="c"># Add path to page_dir Array</span>
+</span><span class='line'>    <span class="k">if</span> extension.nil?
+</span><span class='line'>      page_dir <span class="s">&lt;&lt; filename</span>
+</span><span class='line'><span class="s">      filename</span> <span class="o">=</span> <span class="s2">&quot;index&quot;</span>
+</span><span class='line'>    end
+</span><span class='line'>    extension <span class="o">||=</span> new_page_ext
+</span><span class='line'>    <span class="nv">page_dir</span> <span class="o">=</span> page_dir.map! <span class="o">{</span> <span class="p">|</span>d<span class="p">|</span> <span class="nv">d</span> <span class="o">=</span> d.to_url <span class="o">}</span>.join<span class="o">(</span><span class="s1">&#39;/&#39;</span><span class="o">)</span>                <span class="c"># Sanitize path</span>
+</span><span class='line'>    <span class="nv">filename</span> <span class="o">=</span> filename.downcase.to_url
+</span><span class='line'>
+</span><span class='line'>    mkdir_p page_dir
+</span><span class='line'>    <span class="nv">file</span> <span class="o">=</span> <span class="s2">&quot;#{page_dir}/#{filename}.#{extension}&quot;</span>
+</span><span class='line'>    <span class="k">if</span> File.exist?<span class="o">(</span>file<span class="o">)</span>
+</span><span class='line'>      abort<span class="o">(</span><span class="s2">&quot;rake aborted!&quot;</span><span class="o">)</span> <span class="k">if</span> ask<span class="o">(</span><span class="s2">&quot;#{file} already exists. Do you want to overwrite?&quot;</span>, <span class="o">[</span><span class="s1">&#39;y&#39;</span>, <span class="s1">&#39;n&#39;</span><span class="o">])</span> <span class="o">==</span> <span class="s1">&#39;n&#39;</span>
+</span><span class='line'>    end
+</span><span class='line'>    puts <span class="s2">&quot;Creating new page: #{file}&quot;</span>
+</span><span class='line'>    open<span class="o">(</span>file, <span class="s1">&#39;w&#39;</span><span class="o">)</span> <span class="k">do</span> <span class="p">|</span>page<span class="p">|</span>
+</span><span class='line'>      page.puts <span class="s2">&quot;---&quot;</span>
+</span><span class='line'>      page.puts <span class="s2">&quot;layout: page&quot;</span>
+</span><span class='line'>      page.puts <span class="s2">&quot;title: \&quot;#{title}\&quot;&quot;</span>
+</span><span class='line'>      page.puts <span class="s2">&quot;date: #{Time.now.strftime(&#39;%Y-%m-%d %H:%M&#39;)}&quot;</span>
+</span><span class='line'>      page.puts <span class="s2">&quot;comments: true&quot;</span>
+</span><span class='line'>      --&gt;post.puts <span class="s2">&quot;description: &quot;</span>
+</span><span class='line'>      --&gt;post.puts <span class="s2">&quot;keywords: &quot;</span>
+</span><span class='line'>      page.puts <span class="s2">&quot;sharing: true&quot;</span>
+</span><span class='line'>      page.puts <span class="s2">&quot;footer: true&quot;</span>
+</span><span class='line'>      page.puts <span class="s2">&quot;---&quot;</span>
+</span><span class='line'>    end
+</span><span class='line'>  <span class="k">else</span>
+</span><span class='line'>    puts <span class="s2">&quot;Syntax error: #{args.filename} contains unsupported characters&quot;</span>
+</span><span class='line'>  end
+</span><span class='line'>end
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>masih seperti tadi loh yaa, jangan menambahkan (&ndash;>) hanya kode yang tadi aku jelaskan. Jangan lupa disave.</p>
+
+<ul>
+<li>Lanjut yaa sekarang buka file <code>/source/_includes/head.html</code> setelah dibuka temen-temen harus cari kode seperti gambar dibawah ini.</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>
+</span><span class='line'>&lt;meta <span class="nv">name</span><span class="o">=</span><span class="s2">&quot;description&quot;</span> <span class="nv">content</span><span class="o">=</span><span class="s2">&quot;SEO keywords di octopress&quot;</span>&gt;
+</span><span class='line'>&lt;meta <span class="nv">name</span><span class="o">=</span><span class="s2">&quot;keywords&quot;</span> <span class="nv">content</span><span class="o">=</span><span class="s2">&quot;Konfigurasi SEO Keywords Octopress, cara setting seo keywords di octopress&quot;</span>&gt;
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Setelah itu temen-temen edit seperti ini.</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>&lt;meta <span class="nv">name</span><span class="o">=</span><span class="s2">&quot;description&quot;</span> <span class="nv">content</span><span class="o">=</span><span class="s2">&quot;SEO keywords di octopress&quot;</span> /&gt;
+</span><span class='line'>
+</span><span class='line'>
+</span><span class='line'>&lt;meta <span class="nv">name</span><span class="o">=</span><span class="s2">&quot;keywords&quot;</span> <span class="nv">content</span><span class="o">=</span><span class="s2">&quot;Konfigurasi SEO Keywords Octopress, cara setting seo keywords di octopress&quot;</span> /&gt;
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Jangan lupa disave yaa.</p>
+
+<ul>
+<li>Masih semangat kan, yuk dilanjut. Sekarang temen-temen coba buat post baru <code>rake new_post["post-baru"]</code></li>
+<li>Maka file foldernya akan terlihat seperti ini :</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>---
+</span><span class='line'>layout: post
+</span><span class='line'>title: <span class="s2">&quot;post-baru&quot;</span>
+</span><span class='line'>date: 2014-09-10 03:49:47 +0700
+</span><span class='line'>comments: <span class="nb">true</span>
+</span><span class='line'>categories:
+</span><span class='line'>description:
+</span><span class='line'>keywords:
+</span><span class='line'>---
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Tinggal temen-temen isi <code>categories</code> <code>description</code> dan <code>keywords</code>. Nah selesai deh cara konfigurasi seo keyword di octopress, paham kan temen-temen. Sampai ketemu di artikel selanjutnya yaa.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pengenalan Github]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/11/pengenalan-github/"/>
+    <updated>2014-09-11T13:14:13+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/11/pengenalan-github</id>
+    <content type="html"><![CDATA[<p>Assalamualaikum wr.wb
+Akhirnya setelah sekian lama tidak menulis lagi di halaman ini, aku ada waktu yaa setidaknya menulis dan berbagi ilmu. Judul kali ini adalah &ldquo;Pengenalan Github&rdquo;. Karena sesuai dengan pepatah mengatakan tak kenal maka tak sayang, begitu pun dengan ilmu apabila temen ingin mempelajari ilmu temen pun harus mengetahui ilmu itu berasal dari mana atau lebih jelasnya pengertian atau deskripsi. Langsung tkp saja yuk.</p>
+
+<p>Ada yang tahu github ? pasti sebagian temen-temen ada yg sudah mengenal github. Bagi yang sudah jangan sombong cobalah untuk berbagi ilmu toh ilmu kalian tidak akan habis jika berbagi. Yaa github merupakan software hosting or bahasa kitanya wadah software untuk proyek open source yang menggunakan tools sistem revisi control git. Nah loh git apa lagi yaa, git adalah tool untuk melakukan revisi code, sedangkan github adalah webhostingnya. Mudahnya Github adalah Webhosting untuk proyek proyek software seperti Google code. Github adalah jejaring social untuk software developer.</p>
+
+<!-- more -->
+
+
+<p>Perbedaan Github dengan Project hosting yang lain adalah sebagai berikut.</p>
+
+<ul>
+<li>Github menggunakan Git sebagai tool utama dalam merevisi code.</li>
+<li>Github menyediakan free hosting untuk proyek open source, namun Github juga menawarkan  hosting berbayar untuk proyek perusahaan atau pribadi yang sifatnya privat.</li>
+<li>Github ditargetkan untuk para developer yang bekerja secara tim dan tidak disatu tempat.</li>
+<li>Github mempunyai fitur Social seperti  Twitter seperti follow atau favorit (Star).</li>
+<li>Github mendukung semua bahasa pemrograman, anda bebas memakai bahasa dan tool yang biasa anda pakai.</li>
+</ul>
+
+
+<p>Fitur-fitur yang terdapat pada github.</p>
+
+<ul>
+<li>Github menggunakan profile pengguna (user profile).</li>
+<li>Kita bisa mengikuti user lain (follow) or sebaliknya.</li>
+<li>Watch memonitor repository tertentu. Setiap ada perubahan di Repo, maka kita akan dikirim notifikasi.</li>
+<li>Fork mengcopy keseluruhan code repository ke repo kita sendiri.</li>
+<li>Star fungsinya sama dengan Bookmark.</li>
+</ul>
+
+
+<p>User Profile Github</p>
+
+<p>Profile dari github sama dengan jejaring sosial twitter maupun facebook. Profilenya berisi foto jumlah repository jumlah follower jumlah user yang kita ikuti (following) dan star. Neh aku kasih contoh pictnya.</p>
+
+<p><img src="https://lh6.googleusercontent.com/-dcbT9ChQ5zg/VBk6ST53mvI/AAAAAAAAACU/7inKsibiQa8/w951-h583-no/Profil%2BGithub.png"></p>
+
+<p>heemm biasanya si jika followernya banyak kemungkinan besar bahwa temen itu mahir skillnya. Contoh aja aku masih sedikit followernya berarti aku masih newbie.</p>
+
+<p>Fitur searching
+Github memiliki lebih dari 50 juta repository sofware. Nah banyak banget kan? Jika temen ingin mencari proyek open source tertentu, gunakan fitur pencarian.</p>
+
+<p>Struktur halaman di github</p>
+
+<p><img src="https://lh5.googleusercontent.com/-Y7J5UtUx3B4/VBlBFPr7M_I/AAAAAAAAADA/Zu7GhGmsF_w/w995-h523-no/github.jpg"></p>
+
+<p>Contoh di gambar 2 adalah struktur poyek dari Twitter Bootstrap, CSS framework paling populer saat ini. Mari kita analisa satu persatu struktur halamannya.</p>
+
+<p>Bagian Statistik</p>
+
+<p>Bagian pertama adalah statistik, kia bisa melihat jumlah Watch, star dan fork dibagian atas halaman. Bootstrap adalah salahsatu proyek paling populer di github, maka jangan heran jika ada lebih dari 63 ribu user yang memberi tanda bintang.</p>
+
+<p>Bagian Code</p>
+
+<p>Bagian utama dari struktur proyek ini adalah code itu sendiri. Kode ini juga berisi penjelasan kapan dan apa file terakhir yang diedit berserta penjelasan perubahan apayang terjadi.</p>
+
+<p>Bagian Clone dan Download</p>
+
+<p>Clone in desktop  di pakai untuk mengkopi source code proyek terserbut ke komputer kita , namun komputer kita harus sudah terinstall Github for Windows atau Mac. Bagian paling penting dan paling sering dipakai adalah menu DOWNLOAD.  jika temen ingin langsung mencoba code di komputer , cukup klik download, maka source code otomatis akan dizip dan diunduh ke kompuer temen.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cara Install Git Di Ubuntu, Windows Dan Mac]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/10/cara-install-git-di-ubuntu-windows-dan-mac/"/>
+    <updated>2014-09-10T22:33:03+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/10/cara-install-git-di-ubuntu-windows-dan-mac</id>
+    <content type="html"><![CDATA[<p>Kemarin kita mencoba membuat blog atau website di octopress, jika kalian telah membaca artikel yang kemaren aku rancang tentu kalian masih ingat kan. Diartikel sebelumnya kan menyuruh kalian menginstall git, nah sekarang aku akan sedikit berbagi bagaimana menginstall git pada ubuntu windows dan mac. Upss, banyak juga yaa operating systemnya. Yaa sekalian saja aku share semuanya aja disini tanpa banyak cingcong, yuk disimak yaa.</p>
+
+<!-- more -->
+
+
+<p>Via Operating System Ubuntu atau Linux.</p>
+
+<ul>
+<li><p>Pertama, temen-temen daftar dulu di <a href="https://github.com/.">https://github.com/.</a> Oh yaa klo daftar ini temen-temen gak pake persyaratan fotocopy KTP ataupun SIM karena bukan untuk mengurus surat KK ataupun Nikah. hahhaaa</p></li>
+<li><p>Jika sudah, ketikan pada terminal (ctrl+alt+t)</p></li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>sudo apt-get install git
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li><p>Tunggu sampai prosesnya selesai, nah jika selesai yaa sekarang telah siap dipergunakan.</p></li>
+<li><p>Temen-temen juga bisa mengecheck versinya bukan hack loh tapi cek, caranya</p></li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>git --version
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Klo punya aku si versinya</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>git version 1.7.9.5
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Via Operating System Windows atau Jendela.
+Sesungguhnya install git pada windows atau jendela itu sangatlah mudah asal temen-temen mengikuti langkah-langkahnya yang share dengan baik. Pasti temen-temen bisa semua, ya dong harus bisa. Cumunguud temen.</p>
+
+<ul>
+<li><p>Cara pertama yaa daftar dulu di website <a href="https://github.com/">https://github.com/</a></p></li>
+<li><p>Temen-temen bisa download file git menggunakan msysGit, cukup download dihalaman github file installasinya.</p></li>
+<li><p>Klo bingung neh aku kasih link downloadnya, tenang aku kasih tanpa iklan atau ads.</p></li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>http://msysgit.github.io/
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Setelah terinstall temen-temen memperoleh command-line dan versi GUInya.</li>
+</ul>
+
+
+<p>Via Operating System MAC.
+Nah cara ini yang belum pernah aku coba, lah wong aku ra duwe apple. Kepiye meh jajal hehehe (jowone metu) tapi tenang setelah aku berselancar/bergoogling ria selama 60 menit akhirnya aku menemukan artikel yang cocok dari git-scm (dot) com. Disini aku menjelaskan 2 cara termudah berdasarkan artikel yang telah aku pelajari.</p>
+
+<ul>
+<li><p>Seperti biasa cara pertama itu daftar dulu di <a href="https://github.com/">https://github.com/</a></p></li>
+<li><p>Temen-temen bisa menggunakan installer git berbasis GUI, yang dapat diperoleh dari halaman SourceForge</p></li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>http://sourceforge.net/projects/git-osx-installer/
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Temen-temen juga bisa menggunakan cara yang ini, cara yang ini menggunakan Macports <a href="http://www.macports.org.">http://www.macports.org.</a> Jika sudah menginstall, maka anda dapat menginstall git dengan cara berikut ini :</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nv">$ </span>sudo port install git-core +svn +doc +bash_completion +gitweb
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>yaa itu dia cara menginstall git melalui 3 operating system yang berbeda. Apabila ada pertanyaan bisa comment/hubungi saja via akun twitter aku di @mashergi. Ilmu selanjutnya akan segera di share, assalamualaikum.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cara Membuat Blog Atau Website Di Octopress]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/10/cara-membuat-blog-atau-website-di-octopress/"/>
+    <updated>2014-09-10T19:53:26+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/10/cara-membuat-blog-atau-website-di-octopress</id>
+    <content type="html"><![CDATA[<p>Octopress merupakan sebuah framework yang dirancang oleh Brandon Mathis. Framework ini merupakan mesin blog atau wesite secara statis atau lebih tepatnya html statis. Dengan menggunakan framework ini (Octopress) kita hanya perlu mengclone atau menggandakan dari github. Bagaimana cara menginstallnya, yuk disimak satu persatu caranya dimulai dari</p>
+
+<!-- more -->
+
+
+<ul>
+<li>Teman-teman install github terlebih dahulu. Cara install github bisa cek disini.</li>
+<li><p>Install ruby. Cara install ruby dapat cek disini.</p></li>
+<li><p>Apabila semuanya sudah terinstall saatnya mengclone git dari repos octopressnya di terminal (ctrl+alt+t) ubuntu</p></li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo</span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>git clone git://github.com/imathis/octopress.git username.github.io
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Ketikan:</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nb">cd </span>username.github.io
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Lalu install gem</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>sudo gem install bundler
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Install bundle</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>bundle install
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Dan yang terakhir install</li>
+</ul>
+
+
+<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='sh'><span class='line'>rake install
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Temen-temen bisa mencoba mengetest dengan cara membuat post di octopress, bagaimana caranya tunggu kelanjutan ilmunya. Terima kasih sudah mampir, assalamualaikum.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Perkenalan]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/08/Perkenalan/"/>
+    <updated>2014-09-08T13:26:13+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/08/Perkenalan</id>
+    <content type="html"><![CDATA[<p>Bissmillahirahmanirrahim.
+Semoga website ini berguna bagi semua yang mengunjungi halaman ini, dan dapat dipergunakan sebagai mestinya. Apabila anda ingin mengcopy semua file silahkan cantumkan link saya agar semuanya enak anda enak saya enak. Jika anda ingin bertanya mengenai apapun, bisa menghubungi saya di mashergi@gmail.com/hergi1992@gmail.com/ atau bisa juga lewat akun twitter saya di @mashergi, jangan lupa di follow yaa. Semoga kita semua sehat walafiat yaa. amiin ya robbalalamin. assalamualaikum</p>
+]]></content>
+  </entry>
+  
+</feed>

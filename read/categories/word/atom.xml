@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Word | Hergi Priyambodo]]></title>
+  <link href="http://hergipriyambodo.com/read/categories/word/atom.xml" rel="self"/>
+  <link href="http://hergipriyambodo.com/"/>
+  <updated>2014-12-01T20:38:30+07:00</updated>
+  <id>http://hergipriyambodo.com/</id>
+  <author>
+    <name><![CDATA[Hergi Priyambodo]]></name>
+    <email><![CDATA[mashergi@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Shortcut Keyboard Lengkap Untuk Microsoft Word]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/10/09/shortcut-keyboard-lengkap-untuk-microsoft-word/"/>
+    <updated>2014-10-09T19:15:23+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/10/09/shortcut-keyboard-lengkap-untuk-microsoft-word</id>
+    <content type="html"><![CDATA[<p>Shortcut adalah kombinasi-kombinasi tombol keyboard untuk melakukan sebuah perintah (command line) di MS Word tanpa harus masuk ke menu utama perintah tersebut. Dengan menggunakan shortcut ini, temen-temen bisa meringkas waktu untuk mengetik dan mengedit lembar kerja. Saya mencoba mengumpulkan Shortcut lengkap dari tombol A-Z serta fungsi-fungsinya. Silahkan lihat list shorcut lengkap dibawah ini. Shortcut ini Berlaku untuk  MS Word 2007 ke atas.</p>
+
+<table>
+<thead>
+<tr>
+<th> Tombol Shortcut           </th>
+<th style="text-align:center;"> Fungsi                                            </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> ctrl + A                  </td>
+<td style="text-align:center;"> Memilih/blok semua teks                           </td>
+</tr>
+<tr>
+<td> ctrl + B                  </td>
+<td style="text-align:center;"> Menebalkan huruf (bold)                           </td>
+</tr>
+<tr>
+<td> ctrl + C                  </td>
+<td style="text-align:center;"> Menggandakan kata (copy)                          </td>
+</tr>
+<tr>
+<td> ctrl + D                  </td>
+<td style="text-align:center;"> Memilih jenis huruf (font)                        </td>
+</tr>
+<tr>
+<td> ctrl + E                  </td>
+<td style="text-align:center;"> Rata tengah (center)                              </td>
+</tr>
+<tr>
+<td> ctrl + F                  </td>
+<td style="text-align:center;"> Mencari kalimat (find)                            </td>
+</tr>
+<tr>
+<td> ctrl + G                  </td>
+<td style="text-align:center;"> Pergi ke (go to)                                  </td>
+</tr>
+<tr>
+<td> ctrl + H                  </td>
+<td style="text-align:center;"> Find and Replace                                  </td>
+</tr>
+<tr>
+<td> ctrl + I                  </td>
+<td style="text-align:center;"> Membuat cetak miring (italic)                     </td>
+</tr>
+<tr>
+<td> ctrl + J                  </td>
+<td style="text-align:center;"> Rata kiri kanan (justify)                         </td>
+</tr>
+<tr>
+<td> ctrl + K                  </td>
+<td style="text-align:center;"> Input alamat tautan (insert hyperlink)            </td>
+</tr>
+<tr>
+<td> ctrl + L                  </td>
+<td style="text-align:center;"> Rata kiri (left)                                  </td>
+</tr>
+<tr>
+<td> ctrl + M                  </td>
+<td style="text-align:center;"> Menggeser penempatan paragraf ke kanan            </td>
+</tr>
+<tr>
+<td> ctrl + N                  </td>
+<td style="text-align:center;"> Membuat lembar kerja baru                         </td>
+</tr>
+<tr>
+<td> ctrl + O                  </td>
+<td style="text-align:center;"> Membuka file yang tersimpan                       </td>
+</tr>
+<tr>
+<td> ctrl + P                  </td>
+<td style="text-align:center;"> Mencetak dokumen                                  </td>
+</tr>
+<tr>
+<td> ctrl + Q                  </td>
+<td style="text-align:center;"> Format paragraf yang telah dibuat                 </td>
+</tr>
+<tr>
+<td> ctrl + R                  </td>
+<td style="text-align:center;"> Rata kanan (right)                                </td>
+</tr>
+<tr>
+<td> ctrl + S                  </td>
+<td style="text-align:center;"> Menyimpan dokumen (save)                          </td>
+</tr>
+<tr>
+<td> ctrl + T                  </td>
+<td style="text-align:center;"> Menggeser hangin indent bawah ke kanan)           </td>
+</tr>
+<tr>
+<td> ctrl + U                  </td>
+<td style="text-align:center;"> Membuat garis bawah (underline)                   </td>
+</tr>
+<tr>
+<td> ctrl + V                  </td>
+<td style="text-align:center;"> Tempel (Paste)                                    </td>
+</tr>
+<tr>
+<td> ctrl + W                  </td>
+<td style="text-align:center;"> Keluar dari dokumen                               </td>
+</tr>
+<tr>
+<td> ctrl + X                  </td>
+<td style="text-align:center;"> Memotong/pindah (cut)                             </td>
+</tr>
+<tr>
+<td> ctrl + Y                  </td>
+<td style="text-align:center;"> Mengembalikan perintah yang dibatalkan (redo)     </td>
+</tr>
+<tr>
+<td> ctrl + Z                  </td>
+<td style="text-align:center;"> Membatalkan perintah sebelumnya (undo)            </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Tambahan selain dari huruf A-Z, aku juga akan memberikan tambahan jalan pintas.</p>
+
+<table>
+<thead>
+<tr>
+<th> Tombol Shortcut           </th>
+<th style="text-align:center;"> Fungsi                                                </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> ctrl + Shift + M          </td>
+<td style="text-align:center;"> Menggeser penempatan paragraf ke kiri                 </td>
+</tr>
+<tr>
+<td> ctrl + Shift + T          </td>
+<td style="text-align:center;"> Menggeser hangin indent bawah ke kiri                 </td>
+</tr>
+<tr>
+<td> ctrl + [                  </td>
+<td style="text-align:center;"> Mengecilkan huruf                                     </td>
+</tr>
+<tr>
+<td> ctrl + ]                  </td>
+<td style="text-align:center;"> Membesarkan huruf                                     </td>
+</tr>
+<tr>
+<td> shift + F3                </td>
+<td style="text-align:center;"> Pengaturan Case : Uppercase, Lowercase, Sentence Case </td>
+</tr>
+<tr>
+<td> Alt + F4                  </td>
+<td style="text-align:center;"> Keluar dari lembar kerja                              </td>
+</tr>
+<tr>
+<td> ctrl + Enter              </td>
+<td style="text-align:center;"> Melompat ke halaman baru                              </td>
+</tr>
+<tr>
+<td> F12                       </td>
+<td style="text-align:center;"> Menyimpan kembali dengan nama yang sama               </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Demikianlah segelintir jalan pintas di microsoft word, semoga bermanfaat bagi temen-temen dan apabila temen-temen ingin menshare kembali jangan lupa mencantumkan link terkait yaa. terima kasih.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cara Membuat Kop Surat Di Ms Word]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/30/cara-membuat-kop-surat-di-ms-word/"/>
+    <updated>2014-09-30T22:47:56+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/30/cara-membuat-kop-surat-di-ms-word</id>
+    <content type="html"><![CDATA[<p>Kemaren aku telah berbagi ilmu tentang area kerja microsoft word. sekarang aku lanjutkan tentang Cara Membuat Kop Surat di Ms.Word. temen-temen pasti pernah liat kan bentuk kop surat seperti apa hayo apabila temen-temen tidak tahu sini-sini aku kasih contohnya, bisa dicek pict dibawah ini.</p>
+
+<p><img class="<a" src="href="http://downloaddesain.com/wp-content/uploads/2012/01/contoh-kop-surat-koperasi.jpg">http://downloaddesain.com/wp-content/uploads/2012/01/contoh-kop-surat-koperasi.jpg</a>&#8221;></p>
+
+<!-- more -->
+
+
+<p>Langsung saja yaa berbagi ilmunya, pertama temen-temen bisa sediakan kopi terlebih dahulu. Loh ko jadi bikin kopi yaa karena kopi temen kita yang paling setia saat temen-temen atau aku sendiri sedang posting dan berbagi ilmu di website ini. Surat resmi yang biasanya temen-temen terima dari sekolah maupun universitas pasti diatasnya terdapat kop surat. Kop surat biasanya berisikan logo, nama perusahaan atau nama kampus/sekolah, alamat, nomer telphon bahkan terkadang disertakan alamat email/website.</p>
+
+<p>Cara membuat kop surat di microsoft office word :</p>
+
+<ul>
+<li><p>Pertama temen-temen buka microsoft office word terlebih dahulu.</p></li>
+<li><p>Pilih menu view pilih tombol print layout.</p></li>
+</ul>
+
+
+<p><img class="<a" src="href="https://lh5.googleusercontent.com/-LtHH3nV9V6k/VCxqvi5k1KI/AAAAAAAAAIc/FWYj6tR_XMw/w994-h559-no/kopsurat1.png">https://lh5.googleusercontent.com/-LtHH3nV9V6k/VCxqvi5k1KI/AAAAAAAAAIc/FWYj6tR_XMw/w994-h559-no/kopsurat1.png</a>&#8221;></p>
+
+<ul>
+<li><p>Double klik pada area header yang terdapat pada bagian atas dokumen, kemudian temen-temen dalam posisi pengeditan header dokumen.</p></li>
+<li><p>Bila masih belum ada, silahkan temen-temen berikan tanda ceklis/cek pada pilihan different first page. hal ini untuk membuat kop surat akan ada dihalaman pertama sedangkan halam kedua dan selanjutnya tidak menggunakan kop surat.</p></li>
+</ul>
+
+
+<p><img class="<a" src="href="https://lh3.googleusercontent.com/-Sy0WS2UJK0E/VCxr5n4iKqI/AAAAAAAAAJA/6yRQzLMJ2iw/w994-h559-no/kopsurat2.png">https://lh3.googleusercontent.com/-Sy0WS2UJK0E/VCxr5n4iKqI/AAAAAAAAAJA/6yRQzLMJ2iw/w994-h559-no/kopsurat2.png</a>&#8221;></p>
+
+<ul>
+<li><p>Geser margin kiri temen-temen ke arah tengah tapi jangan terlalu tengah yaa. Dikira-kira saja sama temen-temen itu cukup tidak untuk menaruh logo yang mungkin akan temen-temen tambahkan.</p></li>
+<li><p>Sekarang temen-temen tinggal ketikan nama perusahaan atau apalah terserah keinginan temen-temen pada header tersebut, jangan lupa tambahkan baris kosong pada baris terakhir.</p></li>
+<li><p>Tambahkan juga logo perusahaan ditempat yang telah disediakan tadi loh. Oh ya jangan lupa ubah layout gambarnya jadi in front of text.</p></li>
+<li><p>Temen-temen atur posisi logo dan teks yang tadi telah diketikan. Sesuka temen-temen.</p></li>
+<li><p>Pilih dan blok baris yang kosong yang ada pada baris terakhir untuk dibuat garis pembatas kop surat.</p></li>
+<li><p>Pilih tab menu home, lalu pilih tombol toolbar border.</p></li>
+<li><p>Dari pilihan popup menu untuk membuat border yang ada, pilih item border and shading.</p></li>
+</ul>
+
+
+<p><img class="<a" src="href="https://lh4.googleusercontent.com/-H6G-hwQBBsw/VCxs8Vg-0AI/AAAAAAAAAJo/7DDBuMjxLMg/w994-h559-no/kopsurat4.png">https://lh4.googleusercontent.com/-H6G-hwQBBsw/VCxs8Vg-0AI/AAAAAAAAAJo/7DDBuMjxLMg/w994-h559-no/kopsurat4.png</a>&#8221;></p>
+
+<ul>
+<li><p>Pada dialog border and shading pada setting kemudian pilih costum, kemudian pilih yang temen-temen inginkan dan klo boleh saran harus sesuai dengan apa yang temen-temen tuliskan loh.</p></li>
+<li><p>Apabila semuanya sudah tinggal pilih OK.</p></li>
+<li><p>Hampir selesai pembuatan kop surat, sekarang tinggal meratakan border yang kalian inginkan.</p></li>
+<li><p>Sekarang klik 2 kali pada area dokumen untuk menutup header view, atau bisa juga dengan klik tab menu header and footer tools lalu design kemudian pilih close header and footer.</p></li>
+<li><p>Berikut tampilan punya aku, sederhana kan.</p></li>
+</ul>
+
+
+<p><img class="<a" src="href="https://lh5.googleusercontent.com/-3I5seNruLiY/VCxuYcvJEGI/AAAAAAAAAKI/mJ9QbTpiZzE/w994-h559-no/kopsurat5.png">https://lh5.googleusercontent.com/-3I5seNruLiY/VCxuYcvJEGI/AAAAAAAAAKI/mJ9QbTpiZzE/w994-h559-no/kopsurat5.png</a>&#8221;></p>
+
+<p>Terima kasih sudah berkunjung disini, apabila masih kurang temen-temen bisa mengirimkan email/mention saja.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lembar Kerja Microsoft Word]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/29/lembar-kerja-microsoft-word/"/>
+    <updated>2014-09-29T16:02:29+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/29/lembar-kerja-microsoft-word</id>
+    <content type="html"><![CDATA[<p>Tanpa basa-basi lagi yuk kita mulai dari membuka file microsoft word. Apabila temen-temen tidak tahu cara membuka microsof word, sini aku kasih tahu caranya. Lebih lengkapnya cek pict dibawah ini</p>
+
+<p><img class="<a" src="href="https://lh4.googleusercontent.com/-FdwM2IR5rFU/VClx7VsN3vI/AAAAAAAAAHo/WUXeDeX7a64/w800-h449-no/Msword.png">https://lh4.googleusercontent.com/-FdwM2IR5rFU/VClx7VsN3vI/AAAAAAAAAHo/WUXeDeX7a64/w800-h449-no/Msword.png</a>&#8221;></p>
+
+<p>temen-temen tinggal klik yang sudah saya kasih bulatan/temen-temen bisa mengikuti arahan dari aku.</p>
+
+<!-- more -->
+
+
+<ul>
+<li><p>Pilih menu start atau pilih tombol yang bergambar logo windows pada keyboard</p></li>
+<li><p>Pilh dan klik microsoft windows pada menu bar</p></li>
+<li><p>Tunggu sampai jendela microsoft word terbuka</p></li>
+<li><p>Apabila telah terbuka maka tampilannya akan seperti ini</p></li>
+</ul>
+
+
+<p><img class="<a" src="href="https://lh6.googleusercontent.com/-h2TsE-D6QBk/VClxDrVunDI/AAAAAAAAAHE/MbVaeYlZbQs/w994-h559-no/msword2.png">https://lh6.googleusercontent.com/-h2TsE-D6QBk/VClxDrVunDI/AAAAAAAAAHE/MbVaeYlZbQs/w994-h559-no/msword2.png</a>&#8221;></p>
+
+<p>Oh ya untuk penjelasan angka-angka yang tertera pada gambar bisa dicek dibawah ini, cekidot vroh.
+Keterangannya</p>
+
+<p>   1.Ribbon menu</p>
+
+<p>Adalah menu utama untuk lembar kerja MS Word. Beberapa orang masih sering menyebutnya dengan Menu Home. Di menu ini semua tools dan command diletakkan. Menu utama ini juga memiliki beberapa bagian atau sub-sub terkait dengan tab menunya.</p>
+
+<p>   2.Lembar kerja doc</p>
+
+<p>Visualisasi kertas tempat kita mengetikkan dan memasukkan gambar di dalam dokumen Word.</p>
+
+<p>   3.Toolbar</p>
+
+<p>Sama seperti ribbon menu yaa vroh.</p>
+
+<p>   4.Nama File</p>
+
+<p>Nama file yang sedang terbuka/aktif. Secara default, ketika membuka MS Word maka file akan bernama Document1 dengan eksistensi file .docx. Nama file tersebut bisa kita ubah dan sesuaikan sesuai dengan keinginan.</p>
+
+<p>   5.Ruler</p>
+
+<p>Penggaris sebagai pembantu dalam mengukur margin, kertas, dan juga jarak antar paragraf. Sepertinya semua orang tahu, apa gunanya penggaris itu.</p>
+
+<p>   6.Display</p>
+
+<p>Temen-temen bisa mengatur Display atau tampilan dari bentuk lembar kerja kita dengan beberapa pilihan yang tersedia. Lebih jelasnya silahkan baca artikel Tampilan Halaman MS Word.</p>
+
+<p>   7.Tab Menu</p>
+
+<p>Bagian dari Menu Ribbon, setiap perpindahan sub menu sering diberi istilah tab menu. Seperti, tab menu Home, tab Menu Page Layout, dan lain-lain.</p>
+
+<p>   8.Vertical Sliding Bar</p>
+
+<p>Alat bantu untuk menggulir/scroll halaman lembar kerja kita. Jika kita menggunakan display yang lebih besar, maka akan muncul Horizontal Sliding bar di bagian bawah areal kerja untuk membantu kita menggeser ke kanan dan kiri halaman tersebut.</p>
+
+<p>Ya seginilah sekiranya penjelasan mengenai area kerja microsoft word, apabila ada yang kurang atau sekedar bertanya jangan ragu untuk menghubungi aku via email. Terima kasih *kecup</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cara Membuat Majalah Dengan Microsoft Word]]></title>
+    <link href="http://hergipriyambodo.com/read/2014/09/23/cara-membuat-majalah-dengan-microsoft-word/"/>
+    <updated>2014-09-23T23:52:26+07:00</updated>
+    <id>http://hergipriyambodo.com/read/2014/09/23/cara-membuat-majalah-dengan-microsoft-word</id>
+    <content type="html"><![CDATA[<p>Sejujurnya, membuat majalah dengan Microsoft Word bisa dikatakan tidak bisa. MS Word adalah aplikasi pengolah kata, bukan sebagai aplikasi publishing, atau aplikasi lain yang memang mendukung untuk setting layout. Namun bukan berarti temen-temen tidak bisa mencoba agar dokumen temen-temen bisa terlihat seperti sebuah majalah atau koran. Di sini aku mencoba menjelaskan langkah-langkah untuk membuat tampilan Majalah dengan memanfaatkan fitur-fitur di dalam MS Word.</p>
+
+<p>Semoga artikel ini bisa bermanfaat bagi para visitor/pengunjung yang ingin mempelajari/membuat majalah dengan ms.word. Jika dibandingkan dengan aplikasi desain grafis seperti Photoshop atau CorelDraw, tampilan majalah versi MS Word ini mungkin tidak ada apa-apanya. Mungkin bagi temen-temen yang mempunyai tugas dari sekolah untuk menghiasi majalah dinding sekolah dan belum bisa mengoptimalkan penggunaan aplikasi desain grafis mungkin dengan artikel ini temen-temen bisa membuat serta majalah dinding sekolah bisa terpenuhi dengan majalah karya temen-temen. Yuk tanpa banyak cakap lagi, aku mulai saja berbagi artikel ini. Disimak yaa.</p>
+
+<!-- more -->
+
+
+<p>Membuat Majalah versi MS Word</p>
+
+<ul>
+<li>Mengetik Konten Artikel dan Memberi Efek</li>
+</ul>
+
+
+<p>Langkah pertama adalah dengan membuat dokumen. Di sini aku membuat profil tentang Aura Kasih (*matabelo), profilnya aku kutip dari wikipedia. Silahkan temen-temen membuat artikel apa saja yang temen-temen suka. Mulailah mengetik beberapa paragraf sebagai isi/konten dari majalah yang kita buat. Jangan lupa untuk mengatur style paragraf (alignment), ukuran dan jenis font dan juga mengganti warna font dengan warna yang sesuai dengan keinginan kita. Selanjutnya, kita mengedit konten dengan memberikan sedikit sentuhan dan tambahan objek pada teks. Alangkah lebih baiknya jika temen-temen membaca artikel aku tentang cara membuat Drop Cap.</p>
+
+<ul>
+<li>Sisipkan Gambar dan Kasih Sentuhan Variasi Tampilan</li>
+</ul>
+
+
+<p>Sebuah majalah pasti akan menampilkan visualisasi/gambar di sela-sela artikel. Gambar yang aku pakai sebagai ilustrasi dari isi konten yang kita buat. Pastikan gambar yang akan kita masukkan memiliki hubungan dengan isi artikel. Karena aku membuat artikel tentang Aura Kasih, sudah pasti foto yang aku inputkan adalah foto Aura Kasih bukan foto pacar aku. Jangan sampai temen-temen membuat artikel resep makanan tapi gambar di dalamnya adalah foto Miyabi, sangat tidak lucu kan&hellip;
+Untuk memasukkan gambar ke dalam dokumen MS Word, klik Tab Menu Insert pada bagian Illustrations, pilih Picture. Lihat gambar berikut.</p>
+
+<p><img class="<a" src="href="https://lh5.googleusercontent.com/-faBIVgCbhpA/VCJWX0WHQhI/AAAAAAAAAEU/CSM4lPralm8/w994-h559-no/Majalah%2BWord.png">https://lh5.googleusercontent.com/-faBIVgCbhpA/VCJWX0WHQhI/AAAAAAAAAEU/CSM4lPralm8/w994-h559-no/Majalah%2BWord.png</a>&#8221;></p>
+
+<p>Setelah gambar diinputkan kita akan diberikan beberapa opsi untuk mensetting gambar tersebut. Klik kanan pada gambar, setelah drop menu muncul cari menu Wraping Text Tight. Dengan menggunakan opsi Tight, teks yang berada di sekitar area gambar akan mengikuti lekuk/bentuk gambar sehingga teks tidak akan menimpa/menutupi gambar tersebut. Lihat gambar berikut ini :</p>
+
+<p><img class="<a" src="href="https://lh5.googleusercontent.com/-zvsquPoO044/VCJXtKt6FwI/AAAAAAAAAFY/7IxpWUsXfOE/w994-h559-no/Majalah%2Bword3.png">https://lh5.googleusercontent.com/-zvsquPoO044/VCJXtKt6FwI/AAAAAAAAAFY/7IxpWUsXfOE/w994-h559-no/Majalah%2Bword3.png</a>&#8221;></p>
+
+<p>Masih dalam fokus untuk mengatur tampilan gambar. Klik gambar tadi, lalu perhatikan perubahan pada Ribbon Menu. Di sana akan muncul Picture Tolls serta berbagai pilihan formatnya.</p>
+
+<p><img class="<a" src="href="https://lh3.googleusercontent.com/-C0yrFeABiWY/VCJW70lW3-I/AAAAAAAAAE0/ti88DWvdBm0/w995-h106-no/Majalah%2BWord2.png">https://lh3.googleusercontent.com/-C0yrFeABiWY/VCJW70lW3-I/AAAAAAAAAE0/ti88DWvdBm0/w995-h106-no/Majalah%2BWord2.png</a>&#8221;></p>
+
+<p>Pada Tab Picture Style, silahkan memilih varian bentuk gambar yang diberikan. Untuk melihat secara lengkap klik tanda panah kecil yang berada di kanan bawah menu Picture Style.</p>
+
+<ul>
+<li>Memberi Sentuhan Artistik</li>
+</ul>
+
+
+<p>Klik menu Tab Insert lalu pilih menu Word Art. Pilih style yang diinginkan Lalu ketikkan Teks sebagai judul dari Artikel Majalah kita. Setelah selesai, tekan enter kemduian klik pada garis-garis pembatas ketika kursor sudah berubah bentuk menjadi ikon move untuk mengatur letak dan ukuran dari Word Art tadi.</p>
+
+<ul>
+<li>Finishing</li>
+</ul>
+
+
+<p>Untuk finishing aku kembalikan kepada kreativitas pembaca sendiri, mungkin para pembaca ingin memberikan lebih banyak sentuhan dengan menambahkan kolom koran, mengubah warna, memberikan teks efek atau memasukkan objek lain. Setelah itu silahkan lihat hasilnya, dokumen yang temen-temen buat terlihat seperti majalah hanya dengan menggunakan MS Word. Neh hasil punya aku yg telah aku rancang sedemikan mungkin. Cek this out !!!</p>
+
+<p><img class="<a" src="href="https://lh3.googleusercontent.com/-RDl3-zNEynw/VCJZQrC7gUI/AAAAAAAAAF8/hkwC5tRpUGs/w365-h516-no/Hasil%2BMajalah%2Bword.png">https://lh3.googleusercontent.com/-RDl3-zNEynw/VCJZQrC7gUI/AAAAAAAAAF8/hkwC5tRpUGs/w365-h516-no/Hasil%2BMajalah%2Bword.png</a>&#8221;></p>
+]]></content>
+  </entry>
+  
+</feed>
