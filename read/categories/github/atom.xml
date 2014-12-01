@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Github | Hergi Priyambodo]]></title>
   <link href="http://hergipriyambodo.com/read/categories/github/atom.xml" rel="self"/>
   <link href="http://hergipriyambodo.com/"/>
-  <updated>2014-12-01T22:32:18+07:00</updated>
+  <updated>2014-12-01T23:29:35+07:00</updated>
   <id>http://hergipriyambodo.com/</id>
   <author>
     <name><![CDATA[Hergi Priyambodo]]></name>
@@ -52,7 +52,7 @@ Akhirnya setelah sekian lama tidak menulis lagi di halaman ini, aku ada waktu ya
 
 <p>Profile dari github sama dengan jejaring sosial twitter maupun facebook. Profilenya berisi foto jumlah repository jumlah follower jumlah user yang kita ikuti (following) dan star. Neh aku kasih contoh pictnya.</p>
 
-<p><img class="<a" src="href="https://lh6.googleusercontent.com/-dcbT9ChQ5zg/VBk6ST53mvI/AAAAAAAAACU/7inKsibiQa8/w951-h583-no/Profil%2BGithub.png">https://lh6.googleusercontent.com/-dcbT9ChQ5zg/VBk6ST53mvI/AAAAAAAAACU/7inKsibiQa8/w951-h583-no/Profil%2BGithub.png</a>&#8221;></p>
+<p>{% img <a href="https://lh6.googleusercontent.com/-dcbT9ChQ5zg/VBk6ST53mvI/AAAAAAAAACU/7inKsibiQa8/w951-h583-no/Profil%2BGithub.png">https://lh6.googleusercontent.com/-dcbT9ChQ5zg/VBk6ST53mvI/AAAAAAAAACU/7inKsibiQa8/w951-h583-no/Profil%2BGithub.png</a> %}</p>
 
 <p>heemm biasanya si jika followernya banyak kemungkinan besar bahwa temen itu mahir skillnya. Contoh aja aku masih sedikit followernya berarti aku masih newbie.</p>
 
@@ -61,7 +61,7 @@ Github memiliki lebih dari 50 juta repository sofware. Nah banyak banget kan? Ji
 
 <p>Struktur halaman di github</p>
 
-<p><img class="<a" src="href="https://lh5.googleusercontent.com/-Y7J5UtUx3B4/VBlBFPr7M_I/AAAAAAAAADA/Zu7GhGmsF_w/w995-h523-no/github.jpg">https://lh5.googleusercontent.com/-Y7J5UtUx3B4/VBlBFPr7M_I/AAAAAAAAADA/Zu7GhGmsF_w/w995-h523-no/github.jpg</a>&#8221;></p>
+<p>{% img <a href="https://lh5.googleusercontent.com/-Y7J5UtUx3B4/VBlBFPr7M_I/AAAAAAAAADA/Zu7GhGmsF_w/w995-h523-no/github.jpg">https://lh5.googleusercontent.com/-Y7J5UtUx3B4/VBlBFPr7M_I/AAAAAAAAADA/Zu7GhGmsF_w/w995-h523-no/github.jpg</a> %}</p>
 
 <p>Contoh di gambar 2 adalah struktur poyek dari Twitter Bootstrap, CSS framework paling populer saat ini. Mari kita analisa satu persatu struktur halamannya.</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Terminal | Hergi Priyambodo]]></title>
   <link href="http://hergipriyambodo.com/read/categories/terminal/atom.xml" rel="self"/>
   <link href="http://hergipriyambodo.com/"/>
-  <updated>2014-12-01T22:32:18+07:00</updated>
+  <updated>2014-12-01T23:29:35+07:00</updated>
   <id>http://hergipriyambodo.com/</id>
   <author>
     <name><![CDATA[Hergi Priyambodo]]></name>
@@ -28,21 +28,18 @@
 <ul>
 <li><p>Pertama, temen-temen daftar dulu di <a href="https://github.com/.">https://github.com/.</a> Oh yaa klo daftar ini temen-temen gak pake persyaratan fotocopy KTP ataupun SIM karena bukan untuk mengurus surat KK ataupun Nikah. hahhaaa</p></li>
 <li><p>Jika sudah, ketikan pada terminal (ctrl+alt+t)
-<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
-<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='sh'><span class='line'>sudo apt-get install git
-</span></code></pre></td></tr></table></div></figure></p></li>
+{% codeblock lang:sh root@hergipriyambodo %}
+sudo apt-get install git
+{% endcodeblock %}</p></li>
 <li><p>Tunggu sampai prosesnya selesai, nah jika selesai yaa sekarang telah siap dipergunakan.</p></li>
 <li><p>Temen-temen juga bisa mengecheck versinya bukan hack loh tapi cek, caranya
-<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
-<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='sh'><span class='line'>git <span class="p">&amp;</span>ndash<span class="p">;</span>version
-</span></code></pre></td></tr></table></div></figure></p></li>
+{% codeblock lang:sh root@hergipriyambodo %}
+git &ndash;version
+{% endcodeblock %}</p></li>
 <li><p>Klo punya aku si versinya
-<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
-<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='sh'><span class='line'>git version 1.7.9.5
-</span></code></pre></td></tr></table></div></figure></p></li>
+{% codeblock lang:sh root@hergipriyambodo %}
+git version 1.7.9.5
+{% endcodeblock %}</p></li>
 </ul>
 
 
@@ -53,10 +50,9 @@ Sesungguhnya install git pada windows atau jendela itu sangatlah mudah asal teme
 <li><p>Cara pertama yaa daftar dulu di website <a href="https://github.com/">https://github.com/</a></p></li>
 <li><p>Temen-temen bisa download file git menggunakan msysGit, cukup download dihalaman github file installasinya.</p></li>
 <li><p>Klo bingung neh aku kasih link downloadnya, tenang aku kasih tanpa iklan atau ads.
-<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
-<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='sh'><span class='line'>&lt;a <span class="nv">href</span><span class="o">=</span><span class="s2">&quot;http://msysgit.github.io/&quot;</span>&gt;http://msysgit.github.io/&lt;/a&gt;
-</span></code></pre></td></tr></table></div></figure></p></li>
+{% codeblock lang:sh root@hergipriyambodo %}
+<a href="http://msysgit.github.io/">http://msysgit.github.io/</a>
+{% endcodeblock %}</p></li>
 <li><p>Setelah terinstall temen-temen memperoleh command-line dan versi GUInya.</p></li>
 </ul>
 
@@ -67,15 +63,13 @@ Nah cara ini yang belum pernah aku coba, lah wong aku ra duwe apple. Kepiye meh 
 <ul>
 <li><p>Seperti biasa cara pertama itu daftar dulu di <a href="https://github.com/">https://github.com/</a></p></li>
 <li><p>Temen-temen bisa menggunakan installer git berbasis GUI, yang dapat diperoleh dari halaman SourceForge
-<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
-<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='sh'><span class='line'>&lt;a <span class="nv">href</span><span class="o">=</span><span class="s2">&quot;http://sourceforge.net/projects/git-osx-installer/&quot;</span>&gt;http://sourceforge.net/projects/git-osx-installer/&lt;/a&gt;
-</span></code></pre></td></tr></table></div></figure></p></li>
+{% codeblock lang:sh root@hergipriyambodo %}
+<a href="http://sourceforge.net/projects/git-osx-installer/">http://sourceforge.net/projects/git-osx-installer/</a>
+{% endcodeblock %}</p></li>
 <li><p>Temen-temen juga bisa menggunakan cara yang ini, cara yang ini menggunakan Macports <a href="http://www.macports.org.">http://www.macports.org.</a> Jika sudah menginstall, maka anda dapat menginstall git dengan cara berikut ini :
-<figure class='code'><figcaption><span>root@hergipriyambodo </span></figcaption>
-<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nv">$ </span>sudo port install git-core +svn +doc +bash_completion +gitweb
-</span></code></pre></td></tr></table></div></figure></p></li>
+{% codeblock lang:sh root@hergipriyambodo %}
+$ sudo port install git-core +svn +doc +bash_completion +gitweb
+{% endcodeblock %}</p></li>
 </ul>
 
 

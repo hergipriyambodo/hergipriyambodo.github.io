@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Word | Hergi Priyambodo]]></title>
   <link href="http://hergipriyambodo.com/read/categories/word/atom.xml" rel="self"/>
   <link href="http://hergipriyambodo.com/"/>
-  <updated>2014-12-01T22:32:18+07:00</updated>
+  <updated>2014-12-01T23:29:35+07:00</updated>
   <id>http://hergipriyambodo.com/</id>
   <author>
     <name><![CDATA[Hergi Priyambodo]]></name>
@@ -19,6 +19,9 @@
     <updated>2014-10-09T19:15:23+07:00</updated>
     <id>http://hergipriyambodo.com/read/2014/10/09/shortcut-keyboard-lengkap-untuk-microsoft-word</id>
     <content type="html"><![CDATA[<p>Shortcut adalah kombinasi-kombinasi tombol keyboard untuk melakukan sebuah perintah (command line) di MS Word tanpa harus masuk ke menu utama perintah tersebut. Dengan menggunakan shortcut ini, temen-temen bisa meringkas waktu untuk mengetik dan mengedit lembar kerja. Saya mencoba mengumpulkan Shortcut lengkap dari tombol A-Z serta fungsi-fungsinya. Silahkan lihat list shorcut lengkap dibawah ini. Shortcut ini Berlaku untuk  MS Word 2007 ke atas.</p>
+
+<!---more--->
+
 
 <table>
 <thead>
@@ -193,7 +196,7 @@
     <id>http://hergipriyambodo.com/read/2014/09/30/cara-membuat-kop-surat-di-ms-word</id>
     <content type="html"><![CDATA[<p>Kemaren aku telah berbagi ilmu tentang area kerja microsoft word. sekarang aku lanjutkan tentang Cara Membuat Kop Surat di Ms.Word. temen-temen pasti pernah liat kan bentuk kop surat seperti apa hayo apabila temen-temen tidak tahu sini-sini aku kasih contohnya, bisa dicek pict dibawah ini.</p>
 
-<p><img class="<a" src="href="http://downloaddesain.com/wp-content/uploads/2012/01/contoh-kop-surat-koperasi.jpg">http://downloaddesain.com/wp-content/uploads/2012/01/contoh-kop-surat-koperasi.jpg</a>&#8221;></p>
+<p>{% img <a href="http://downloaddesain.com/wp-content/uploads/2012/01/contoh-kop-surat-koperasi.jpg">http://downloaddesain.com/wp-content/uploads/2012/01/contoh-kop-surat-koperasi.jpg</a> %}</p>
 
 <!-- more -->
 
@@ -208,7 +211,7 @@
 </ul>
 
 
-<p><img class="<a" src="href="https://lh5.googleusercontent.com/-LtHH3nV9V6k/VCxqvi5k1KI/AAAAAAAAAIc/FWYj6tR_XMw/w994-h559-no/kopsurat1.png">https://lh5.googleusercontent.com/-LtHH3nV9V6k/VCxqvi5k1KI/AAAAAAAAAIc/FWYj6tR_XMw/w994-h559-no/kopsurat1.png</a>&#8221;></p>
+<p>{% img <a href="https://lh5.googleusercontent.com/-LtHH3nV9V6k/VCxqvi5k1KI/AAAAAAAAAIc/FWYj6tR_XMw/w994-h559-no/kopsurat1.png">https://lh5.googleusercontent.com/-LtHH3nV9V6k/VCxqvi5k1KI/AAAAAAAAAIc/FWYj6tR_XMw/w994-h559-no/kopsurat1.png</a> %}</p>
 
 <ul>
 <li><p>Double klik pada area header yang terdapat pada bagian atas dokumen, kemudian temen-temen dalam posisi pengeditan header dokumen.</p></li>
@@ -216,7 +219,7 @@
 </ul>
 
 
-<p><img class="<a" src="href="https://lh3.googleusercontent.com/-Sy0WS2UJK0E/VCxr5n4iKqI/AAAAAAAAAJA/6yRQzLMJ2iw/w994-h559-no/kopsurat2.png">https://lh3.googleusercontent.com/-Sy0WS2UJK0E/VCxr5n4iKqI/AAAAAAAAAJA/6yRQzLMJ2iw/w994-h559-no/kopsurat2.png</a>&#8221;></p>
+<p>{% img <a href="https://lh3.googleusercontent.com/-Sy0WS2UJK0E/VCxr5n4iKqI/AAAAAAAAAJA/6yRQzLMJ2iw/w994-h559-no/kopsurat2.png">https://lh3.googleusercontent.com/-Sy0WS2UJK0E/VCxr5n4iKqI/AAAAAAAAAJA/6yRQzLMJ2iw/w994-h559-no/kopsurat2.png</a> %}</p>
 
 <ul>
 <li><p>Geser margin kiri temen-temen ke arah tengah tapi jangan terlalu tengah yaa. Dikira-kira saja sama temen-temen itu cukup tidak untuk menaruh logo yang mungkin akan temen-temen tambahkan.</p></li>
@@ -229,7 +232,7 @@
 </ul>
 
 
-<p><img class="<a" src="href="https://lh4.googleusercontent.com/-H6G-hwQBBsw/VCxs8Vg-0AI/AAAAAAAAAJo/7DDBuMjxLMg/w994-h559-no/kopsurat4.png">https://lh4.googleusercontent.com/-H6G-hwQBBsw/VCxs8Vg-0AI/AAAAAAAAAJo/7DDBuMjxLMg/w994-h559-no/kopsurat4.png</a>&#8221;></p>
+<p>{% img <a href="https://lh4.googleusercontent.com/-H6G-hwQBBsw/VCxs8Vg-0AI/AAAAAAAAAJo/7DDBuMjxLMg/w994-h559-no/kopsurat4.png">https://lh4.googleusercontent.com/-H6G-hwQBBsw/VCxs8Vg-0AI/AAAAAAAAAJo/7DDBuMjxLMg/w994-h559-no/kopsurat4.png</a> %}</p>
 
 <ul>
 <li><p>Pada dialog border and shading pada setting kemudian pilih costum, kemudian pilih yang temen-temen inginkan dan klo boleh saran harus sesuai dengan apa yang temen-temen tuliskan loh.</p></li>
@@ -240,7 +243,7 @@
 </ul>
 
 
-<p><img class="<a" src="href="https://lh5.googleusercontent.com/-3I5seNruLiY/VCxuYcvJEGI/AAAAAAAAAKI/mJ9QbTpiZzE/w994-h559-no/kopsurat5.png">https://lh5.googleusercontent.com/-3I5seNruLiY/VCxuYcvJEGI/AAAAAAAAAKI/mJ9QbTpiZzE/w994-h559-no/kopsurat5.png</a>&#8221;></p>
+<p>{% img <a href="https://lh5.googleusercontent.com/-3I5seNruLiY/VCxuYcvJEGI/AAAAAAAAAKI/mJ9QbTpiZzE/w994-h559-no/kopsurat5.png">https://lh5.googleusercontent.com/-3I5seNruLiY/VCxuYcvJEGI/AAAAAAAAAKI/mJ9QbTpiZzE/w994-h559-no/kopsurat5.png</a> %}</p>
 
 <p>Terima kasih sudah berkunjung disini, apabila masih kurang temen-temen bisa mengirimkan email/mention saja.</p>
 ]]></content>
@@ -253,7 +256,7 @@
     <id>http://hergipriyambodo.com/read/2014/09/29/lembar-kerja-microsoft-word</id>
     <content type="html"><![CDATA[<p>Tanpa basa-basi lagi yuk kita mulai dari membuka file microsoft word. Apabila temen-temen tidak tahu cara membuka microsof word, sini aku kasih tahu caranya. Lebih lengkapnya cek pict dibawah ini</p>
 
-<p><img class="<a" src="href="https://lh4.googleusercontent.com/-FdwM2IR5rFU/VClx7VsN3vI/AAAAAAAAAHo/WUXeDeX7a64/w800-h449-no/Msword.png">https://lh4.googleusercontent.com/-FdwM2IR5rFU/VClx7VsN3vI/AAAAAAAAAHo/WUXeDeX7a64/w800-h449-no/Msword.png</a>&#8221;></p>
+<p>{% img <a href="https://lh4.googleusercontent.com/-FdwM2IR5rFU/VClx7VsN3vI/AAAAAAAAAHo/WUXeDeX7a64/w800-h449-no/Msword.png">https://lh4.googleusercontent.com/-FdwM2IR5rFU/VClx7VsN3vI/AAAAAAAAAHo/WUXeDeX7a64/w800-h449-no/Msword.png</a> %}</p>
 
 <p>temen-temen tinggal klik yang sudah saya kasih bulatan/temen-temen bisa mengikuti arahan dari aku.</p>
 
@@ -268,7 +271,7 @@
 </ul>
 
 
-<p><img class="<a" src="href="https://lh6.googleusercontent.com/-h2TsE-D6QBk/VClxDrVunDI/AAAAAAAAAHE/MbVaeYlZbQs/w994-h559-no/msword2.png">https://lh6.googleusercontent.com/-h2TsE-D6QBk/VClxDrVunDI/AAAAAAAAAHE/MbVaeYlZbQs/w994-h559-no/msword2.png</a>&#8221;></p>
+<p>{% img <a href="https://lh6.googleusercontent.com/-h2TsE-D6QBk/VClxDrVunDI/AAAAAAAAAHE/MbVaeYlZbQs/w994-h559-no/msword2.png">https://lh6.googleusercontent.com/-h2TsE-D6QBk/VClxDrVunDI/AAAAAAAAAHE/MbVaeYlZbQs/w994-h559-no/msword2.png</a> %}</p>
 
 <p>Oh ya untuk penjelasan angka-angka yang tertera pada gambar bisa dicek dibawah ini, cekidot vroh.
 Keterangannya</p>
@@ -338,15 +341,15 @@ Keterangannya</p>
 <p>Sebuah majalah pasti akan menampilkan visualisasi/gambar di sela-sela artikel. Gambar yang aku pakai sebagai ilustrasi dari isi konten yang kita buat. Pastikan gambar yang akan kita masukkan memiliki hubungan dengan isi artikel. Karena aku membuat artikel tentang Aura Kasih, sudah pasti foto yang aku inputkan adalah foto Aura Kasih bukan foto pacar aku. Jangan sampai temen-temen membuat artikel resep makanan tapi gambar di dalamnya adalah foto Miyabi, sangat tidak lucu kan&hellip;
 Untuk memasukkan gambar ke dalam dokumen MS Word, klik Tab Menu Insert pada bagian Illustrations, pilih Picture. Lihat gambar berikut.</p>
 
-<p><img class="<a" src="href="https://lh5.googleusercontent.com/-faBIVgCbhpA/VCJWX0WHQhI/AAAAAAAAAEU/CSM4lPralm8/w994-h559-no/Majalah%2BWord.png">https://lh5.googleusercontent.com/-faBIVgCbhpA/VCJWX0WHQhI/AAAAAAAAAEU/CSM4lPralm8/w994-h559-no/Majalah%2BWord.png</a>&#8221;></p>
+<p>{% img <a href="https://lh5.googleusercontent.com/-faBIVgCbhpA/VCJWX0WHQhI/AAAAAAAAAEU/CSM4lPralm8/w994-h559-no/Majalah%2BWord.png">https://lh5.googleusercontent.com/-faBIVgCbhpA/VCJWX0WHQhI/AAAAAAAAAEU/CSM4lPralm8/w994-h559-no/Majalah%2BWord.png</a> %}</p>
 
 <p>Setelah gambar diinputkan kita akan diberikan beberapa opsi untuk mensetting gambar tersebut. Klik kanan pada gambar, setelah drop menu muncul cari menu Wraping Text Tight. Dengan menggunakan opsi Tight, teks yang berada di sekitar area gambar akan mengikuti lekuk/bentuk gambar sehingga teks tidak akan menimpa/menutupi gambar tersebut. Lihat gambar berikut ini :</p>
 
-<p><img class="<a" src="href="https://lh5.googleusercontent.com/-zvsquPoO044/VCJXtKt6FwI/AAAAAAAAAFY/7IxpWUsXfOE/w994-h559-no/Majalah%2Bword3.png">https://lh5.googleusercontent.com/-zvsquPoO044/VCJXtKt6FwI/AAAAAAAAAFY/7IxpWUsXfOE/w994-h559-no/Majalah%2Bword3.png</a>&#8221;></p>
+<p>{% img <a href="https://lh5.googleusercontent.com/-zvsquPoO044/VCJXtKt6FwI/AAAAAAAAAFY/7IxpWUsXfOE/w994-h559-no/Majalah%2Bword3.png">https://lh5.googleusercontent.com/-zvsquPoO044/VCJXtKt6FwI/AAAAAAAAAFY/7IxpWUsXfOE/w994-h559-no/Majalah%2Bword3.png</a> %}</p>
 
 <p>Masih dalam fokus untuk mengatur tampilan gambar. Klik gambar tadi, lalu perhatikan perubahan pada Ribbon Menu. Di sana akan muncul Picture Tolls serta berbagai pilihan formatnya.</p>
 
-<p><img class="<a" src="href="https://lh3.googleusercontent.com/-C0yrFeABiWY/VCJW70lW3-I/AAAAAAAAAE0/ti88DWvdBm0/w995-h106-no/Majalah%2BWord2.png">https://lh3.googleusercontent.com/-C0yrFeABiWY/VCJW70lW3-I/AAAAAAAAAE0/ti88DWvdBm0/w995-h106-no/Majalah%2BWord2.png</a>&#8221;></p>
+<p>{% img <a href="https://lh3.googleusercontent.com/-C0yrFeABiWY/VCJW70lW3-I/AAAAAAAAAE0/ti88DWvdBm0/w995-h106-no/Majalah%2BWord2.png">https://lh3.googleusercontent.com/-C0yrFeABiWY/VCJW70lW3-I/AAAAAAAAAE0/ti88DWvdBm0/w995-h106-no/Majalah%2BWord2.png</a> %}</p>
 
 <p>Pada Tab Picture Style, silahkan memilih varian bentuk gambar yang diberikan. Untuk melihat secara lengkap klik tanda panah kecil yang berada di kanan bawah menu Picture Style.</p>
 
@@ -364,7 +367,7 @@ Untuk memasukkan gambar ke dalam dokumen MS Word, klik Tab Menu Insert pada bagi
 
 <p>Untuk finishing aku kembalikan kepada kreativitas pembaca sendiri, mungkin para pembaca ingin memberikan lebih banyak sentuhan dengan menambahkan kolom koran, mengubah warna, memberikan teks efek atau memasukkan objek lain. Setelah itu silahkan lihat hasilnya, dokumen yang temen-temen buat terlihat seperti majalah hanya dengan menggunakan MS Word. Neh hasil punya aku yg telah aku rancang sedemikan mungkin. Cek this out !!!</p>
 
-<p><img class="<a" src="href="https://lh3.googleusercontent.com/-RDl3-zNEynw/VCJZQrC7gUI/AAAAAAAAAF8/hkwC5tRpUGs/w365-h516-no/Hasil%2BMajalah%2Bword.png">https://lh3.googleusercontent.com/-RDl3-zNEynw/VCJZQrC7gUI/AAAAAAAAAF8/hkwC5tRpUGs/w365-h516-no/Hasil%2BMajalah%2Bword.png</a>&#8221;></p>
+<p>{% img <a href="https://lh3.googleusercontent.com/-RDl3-zNEynw/VCJZQrC7gUI/AAAAAAAAAF8/hkwC5tRpUGs/w365-h516-no/Hasil%2BMajalah%2Bword.png">https://lh3.googleusercontent.com/-RDl3-zNEynw/VCJZQrC7gUI/AAAAAAAAAF8/hkwC5tRpUGs/w365-h516-no/Hasil%2BMajalah%2Bword.png</a> %}</p>
 ]]></content>
   </entry>
   
